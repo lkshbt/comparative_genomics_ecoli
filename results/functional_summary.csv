@@ -1,0 +1,2414 @@
+family_type,go_function,family_count
+Accessory,0000035,1
+Accessory,0000036,1
+Accessory,0000049,1
+Accessory,0000150,1
+Accessory,0000166,1
+Accessory,0000287,1
+Accessory,0000310,1
+Accessory,0001217,1
+Accessory,0003676,1
+Accessory,0003677,1
+Accessory,0003678,1
+Accessory,0003684,1
+Accessory,0003700,1
+Accessory,0003723,1
+Accessory,0003729,1
+Accessory,0003735,1
+Accessory,0003747,1
+Accessory,0003756,1
+Accessory,0003774,1
+Accessory,0003796,1
+Accessory,0003824,1
+Accessory,0003887,1
+Accessory,0003899,1
+Accessory,0003908,1
+Accessory,0003924,1
+Accessory,0003963,1
+Accessory,0003979,1
+Accessory,0004016,1
+Accessory,0004034,1
+Accessory,0004071,1
+Accessory,0004190,1
+Accessory,0004222,1
+Accessory,0004252,1
+Accessory,0004335,1
+Accessory,0004342,1
+Accessory,0004349,1
+Accessory,0004350,1
+Accessory,0004386,1
+Accessory,0004518,1
+Accessory,0004519,1
+Accessory,0004520,1
+Accessory,0004521,1
+Accessory,0004527,1
+Accessory,0004540,1
+Accessory,0004553,1
+Accessory,0004559,1
+Accessory,0004605,1
+Accessory,0004731,1
+Accessory,0004747,1
+Accessory,0004803,1
+Accessory,0004866,1
+Accessory,0005198,1
+Accessory,0005215,1
+Accessory,0005247,1
+Accessory,0005351,1
+Accessory,0005381,1
+Accessory,0005385,1
+Accessory,0005506,1
+Accessory,0005507,1
+Accessory,0005509,1
+Accessory,0005515,1
+Accessory,0005524,1
+Accessory,0005525,1
+Accessory,0008080,1
+Accessory,0008108,1
+Accessory,0008131,1
+Accessory,0008168,1
+Accessory,0008198,1
+Accessory,0008233,1
+Accessory,0008234,1
+Accessory,0008235,1
+Accessory,0008236,1
+Accessory,0008237,1
+Accessory,0008270,1
+Accessory,0008276,1
+Accessory,0008375,1
+Accessory,0008408,1
+Accessory,0008446,1
+Accessory,0008452,1
+Accessory,0008484,1
+Accessory,0008663,1
+Accessory,0008675,1
+Accessory,0008687,1
+Accessory,0008688,1
+Accessory,0008691,1
+Accessory,0008704,1
+Accessory,0008754,1
+Accessory,0008755,1
+Accessory,0008757,1
+Accessory,0008761,1
+Accessory,0008767,1
+Accessory,0008801,1
+Accessory,0008812,1
+Accessory,0008824,1
+Accessory,0008830,1
+Accessory,0008892,1
+Accessory,0008953,1
+Accessory,0009007,1
+Accessory,0009009,1
+Accessory,0009022,1
+Accessory,0009045,1
+Accessory,0009927,1
+Accessory,0015079,1
+Accessory,0015098,1
+Accessory,0015150,1
+Accessory,0015159,1
+Accessory,0015209,1
+Accessory,0015221,1
+Accessory,0015276,1
+Accessory,0015288,1
+Accessory,0015291,1
+Accessory,0015293,1
+Accessory,0015344,1
+Accessory,0015416,1
+Accessory,0015420,1
+Accessory,0015535,1
+Accessory,0015643,1
+Accessory,0015663,1
+Accessory,0015666,1
+Accessory,0016301,1
+Accessory,0016405,1
+Accessory,0016410,1
+Accessory,0016491,1
+Accessory,0016616,1
+Accessory,0016712,1
+Accessory,0016746,1
+Accessory,0016757,1
+Accessory,0016779,1
+Accessory,0016780,1
+Accessory,0016782,1
+Accessory,0016787,1
+Accessory,0016788,1
+Accessory,0016790,1
+Accessory,0016791,1
+Accessory,0016811,1
+Accessory,0016829,1
+Accessory,0016831,1
+Accessory,0016836,1
+Accessory,0016853,1
+Accessory,0016872,1
+Accessory,0016887,1
+Accessory,0016987,1
+Accessory,0017057,1
+Accessory,0018800,1
+Accessory,0018817,1
+Accessory,0019148,1
+Accessory,0019200,1
+Accessory,0019213,1
+Accessory,0019534,1
+Accessory,0022857,1
+Accessory,0030145,1
+Accessory,0030151,1
+Accessory,0030170,1
+Accessory,0030246,1
+Accessory,0030554,1
+Accessory,0030976,1
+Accessory,0035438,1
+Accessory,0035460,1
+Accessory,0036524,1
+Accessory,0042626,1
+Accessory,0043169,1
+Accessory,0043565,1
+Accessory,0046421,1
+Accessory,0046872,1
+Accessory,0046983,1
+Accessory,0047150,1
+Accessory,0047475,1
+Accessory,0047547,1
+Accessory,0047559,1
+Accessory,0047770,1
+Accessory,0048038,1
+Accessory,0050032,1
+Accessory,0050531,1
+Accessory,0050577,1
+Accessory,0050660,1
+Accessory,0050661,1
+Accessory,0051287,1
+Accessory,0051536,1
+Accessory,0051537,1
+Accessory,0051908,1
+Accessory,0052621,1
+Accessory,0060703,1
+Accessory,0070007,1
+Accessory,0070204,1
+Accessory,0070401,1
+Accessory,0070403,1
+Accessory,0070567,1
+Accessory,0071111,1
+Accessory,0071518,1
+Accessory,0090729,1
+Accessory,0097266,1
+Accessory,0097367,1
+Accessory,0140110,1
+Accessory,0140327,1
+Accessory,0140359,1
+Accessory,0140657,1
+Accessory,1901515,1
+Accessory,1904047,1
+Accessory,1990362,1
+Accessory,2'%2C3'-cyclic-nucleotide 2'-phosphodiesterase activity,1
+Accessory,2-dehydro-3-deoxy-phosphogluconate aldolase activity,1
+Accessory,2-methylcitrate dehydratase activity,1
+Accessory,2-oxo-hept-3-ene-1%2C7-dioate hydratase activity,1
+Accessory,3-(3-hydroxyphenyl)propionate hydroxylase activity,1
+Accessory,3-dehydro-L-gulonate 2-dehydrogenase activity,1
+Accessory,3-hydroxybutyryl-CoA dehydrogenase activity,1
+Accessory,5-carboxymethyl-2-hydroxymuconate delta-isomerase activity,1
+Accessory,6-phosphogluconolactonase activity,1
+Accessory,ABC-type phosphonate transporter activity,1
+Accessory,ABC-type vitamin B12 transporter activity,1
+Accessory,ATP binding,1
+Accessory,ATP hydrolysis activity,1
+Accessory,ATPase-coupled transmembrane transporter activity,1
+Accessory,CoA-ligase activity,1
+Accessory,D-cysteine desulfhydrase activity,1
+Accessory,DNA binding,1
+Accessory,DNA helicase activity,1
+Accessory,DNA strand exchange activity,1
+Accessory,DNA-binding transcription factor activity,1
+Accessory,DNA-binding transcription repressor activity,1
+Accessory,DNA-directed RNA polymerase activity,1
+Accessory,GDP-mannose 4%2C6-dehydratase activity,1
+Accessory,GTP binding,1
+Accessory,GTPase activity,1
+Accessory,IEA,1
+Accessory,"IEA,2 iron%2C 2 sulfur cluster binding",1
+Accessory,"IEA,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity",1
+Accessory,"IEA,3%2C4-dihydroxyphenylacetate 2%2C3-dioxygenase activity",1
+Accessory,"IEA,3'-5' exonuclease activity",1
+Accessory,"IEA,5-oxopent-3-ene-1%2C2%2C5-tricarboxylate decarboxylase activity",1
+Accessory,"IEA,ABC-type transporter activity",1
+Accessory,"IEA,ATP binding",1
+Accessory,"IEA,ATP hydrolysis activity",1
+Accessory,"IEA,ATP-dependent activity",1
+Accessory,"IEA,ATPase-coupled transmembrane transporter activity",1
+Accessory,"IEA,DNA binding",1
+Accessory,"IEA,DNA endonuclease activity",1
+Accessory,"IEA,DNA-binding transcription factor activity",1
+Accessory,"IEA,DNA-directed DNA polymerase activity",1
+Accessory,"IEA,GDP-L-fucose synthase activity",1
+Accessory,"IEA,GTP binding",1
+Accessory,"IEA,L-ascorbate 6-phosphate lactonase activity",1
+Accessory,"IEA,NAD binding",1
+Accessory,"IEA,NAD+ binding",1
+Accessory,"IEA,NADP binding",1
+Accessory,"IEA,NADP+ binding",1
+Accessory,"IEA,O antigen polymerase activity",1
+Accessory,"IEA,RNA nuclease activity",1
+Accessory,"IEA,S-adenosyl-L-methionine binding",1
+Accessory,"IEA,S-adenosylmethionine-dependent methyltransferase activity",1
+Accessory,"IEA,acyl carrier activity",1
+Accessory,"IEA,acyltransferase activity",1
+Accessory,"IEA,adenyl nucleotide binding",1
+Accessory,"IEA,beta-phosphoglucomutase activity",1
+Accessory,"IEA,butanol dehydrogenase (NAD+) activity",1
+Accessory,"IEA,calcium ion binding",1
+Accessory,"IEA,carbohydrate binding",1
+Accessory,"IEA,carbohydrate derivative binding",1
+Accessory,"IEA,carbohydrate kinase activity",1
+Accessory,"IEA,carboxylate reductase activity",1
+Accessory,"IEA,catalytic activity",1
+Accessory,"IEA,cation binding",1
+Accessory,"IEA,diguanylate cyclase activity",1
+Accessory,"IEA,endonuclease activity",1
+Accessory,"IEA,flavin adenine dinucleotide binding",1
+Accessory,"IEA,fucose:proton symporter activity",1
+Accessory,"IEA,glutamic-type endopeptidase activity",1
+Accessory,"IEA,guanine deaminase activity",1
+Accessory,"IEA,helicase activity",1
+Accessory,"IEA,hydrolase activity",1
+Accessory,"IEA,hydrolase activity%2C acting on carbon-nitrogen (but not peptide) bonds%2C in linear amides",1
+Accessory,"IEA,hydrolase activity%2C acting on ester bonds",1
+Accessory,"IEA,hydrolase activity%2C hydrolyzing O-glycosyl compounds",1
+Accessory,"IEA,iron-sulfur cluster binding",1
+Accessory,"IEA,isomerase activity",1
+Accessory,"IEA,kinase activity",1
+Accessory,"IEA,metal ion binding",1
+Accessory,"IEA,metalloexopeptidase activity",1
+Accessory,"IEA,molybdate ion transmembrane transporter activity",1
+Accessory,"IEA,molybdenum ion binding",1
+Accessory,"IEA,nuclease activity",1
+Accessory,"IEA,nucleotidyltransferase activity",1
+Accessory,"IEA,oxidoreductase activity",1
+Accessory,"IEA,oxidoreductase activity%2C acting on the CH-OH group of donors%2C NAD or NADP as acceptor",1
+Accessory,"IEA,peptidase activity",1
+Accessory,"IEA,phosphotransferase activity%2C for other substituted phosphate groups",1
+Accessory,"IEA,primary methylamine oxidase activity",1
+Accessory,"IEA,protein dimerization activity",1
+Accessory,"IEA,quinone binding",1
+Accessory,"IEA,sequence-specific DNA binding",1
+Accessory,"IEA,serine-type peptidase activity",1
+Accessory,"IEA,sigma factor activity",1
+Accessory,"IEA,site-specific DNA-methyltransferase (adenine-specific) activity",1
+Accessory,"IEA,tRNA nucleotidyltransferase activity",1
+Accessory,"IEA,toxin activity",1
+Accessory,"IEA,transcription regulator activity",1
+Accessory,"IEA,transmembrane transporter activity",1
+Accessory,"IEA,transposase activity",1
+Accessory,"IEA,zinc ion binding",1
+Accessory,L-rhamnonate dehydratase activity,1
+Accessory,N-acetyltransferase activity,1
+Accessory,N-acyltransferase activity,1
+Accessory,O-antigen ligase activity,1
+Accessory,RNA binding,1
+Accessory,RNA endonuclease activity,1
+Accessory,RNA ligase activity,1
+Accessory,RNA-3'-phosphate cyclase activity,1
+Accessory,UDP-N-acetylglucosamine 2-epimerase activity,1
+Accessory,UDP-galactopyranose mutase activity,1
+Accessory,UDP-glucose 6-dehydrogenase activity,1
+Accessory,UDP-glucose:hexose-1-phosphate uridylyltransferase activity,1
+Accessory,acetylglucosaminyltransferase activity,1
+Accessory,acyl binding,1
+Accessory,adenylate cyclase activity,1
+Accessory,aldose 1-epimerase activity,1
+Accessory,alpha-mannosidase activity,1
+Accessory,aspartate-ammonia ligase activity,1
+Accessory,aspartic-type endopeptidase activity,1
+Accessory,autoinducer-2 kinase activity,1
+Accessory,betaine-homocysteine S-methyltransferase activity,1
+Accessory,carbohydrate binding,1
+Accessory,carbohydrate kinase activity,1
+Accessory,carbohydrate:proton symporter activity,1
+Accessory,carboxy-lyase activity,1
+Accessory,catalytic activity,1
+Accessory,choline dehydrogenase activity,1
+Accessory,copper ion binding,1
+Accessory,cyanate hydratase activity,1
+Accessory,cyclic-di-GMP binding,1
+Accessory,cyclic-guanylate-specific phosphodiesterase activity,1
+Accessory,cysteine-type peptidase activity,1
+Accessory,cytidylyltransferase activity,1
+Accessory,cytosine transmembrane transporter activity,1
+Accessory,cytoskeletal motor activity,1
+Accessory,dTDP-4-dehydrorhamnose 3%2C5-epimerase activity,1
+Accessory,damaged DNA binding,1
+Accessory,deacetylase activity,1
+Accessory,deoxyribonuclease inhibitor activity,1
+Accessory,double-stranded DNA 5'-3' DNA exonuclease activity,1
+Accessory,endonuclease activity,1
+Accessory,endopeptidase inhibitor activity,1
+Accessory,exonuclease activity,1
+Accessory,ferrous iron binding,1
+Accessory,flavin adenine dinucleotide binding,1
+Accessory,flippase activity,1
+Accessory,fucose transmembrane transporter activity,1
+Accessory,galactokinase activity,1
+Accessory,glucosamine-6-phosphate deaminase activity,1
+Accessory,glutamate 5-kinase activity,1
+Accessory,glutamate-5-semialdehyde dehydrogenase activity,1
+Accessory,glycosyltransferase activity,1
+Accessory,histidine phosphotransfer kinase activity,1
+Accessory,hydro-lyase activity,1
+Accessory,hydrolase activity,1
+Accessory,hydrolase activity%2C acting on ester bonds,1
+Accessory,hydrolase activity%2C hydrolyzing O-glycosyl compounds,1
+Accessory,intramolecular lyase activity,1
+Accessory,iron ion binding,1
+Accessory,iron ion transmembrane transporter activity,1
+Accessory,iron-sulfur cluster binding,1
+Accessory,isomerase activity,1
+Accessory,kinase activity,1
+Accessory,ligand-gated monoatomic ion channel activity,1
+Accessory,lipopolysaccharide transmembrane transporter activity,1
+Accessory,lyase activity,1
+Accessory,lysozyme activity,1
+Accessory,mRNA binding,1
+Accessory,magnesium ion binding,1
+Accessory,manganese ion binding,1
+Accessory,mannosyl-3-phosphoglycerate phosphatase activity,1
+Accessory,metal ion binding,1
+Accessory,metalloendopeptidase activity,1
+Accessory,metallopeptidase activity,1
+Accessory,methylated-DNA-[protein]-cysteine S-methyltransferase activity,1
+Accessory,methylisocitrate lyase activity,1
+Accessory,methyltransferase activity,1
+Accessory,nicotinamide mononucleotide transmembrane transporter activity,1
+Accessory,nucleic acid binding,1
+Accessory,nucleotide binding,1
+Accessory,oxidoreductase activity,1
+Accessory,oxidoreductase activity%2C acting on paired donors%2C with incorporation or reduction of molecular oxygen%2C reduced flavin or flavoprotein as one donor%2C and incorporation of one atom of oxygen,1
+Accessory,oxidoreductase activity%2C acting on the CH-OH group of donors%2C NAD or NADP as acceptor,1
+Accessory,penicillin amidase activity,1
+Accessory,peptidase activity,1
+Accessory,phenylacetate-CoA ligase activity,1
+Accessory,phenylacetyl-CoA 1%2C2-epoxidase activity,1
+Accessory,phosphatase activity,1
+Accessory,phosphatidate cytidylyltransferase activity,1
+Accessory,poly-beta-1%2C6-N-acetyl-D-glucosamine transmembrane transporter activity,1
+Accessory,polysaccharide transmembrane transporter activity,1
+Accessory,porin activity,1
+Accessory,potassium ion transmembrane transporter activity,1
+Accessory,protein binding,1
+Accessory,protein deglycase activity,1
+Accessory,protein disulfide isomerase activity,1
+Accessory,protein methyltransferase activity,1
+Accessory,purine-nucleoside phosphorylase activity,1
+Accessory,pyridoxal phosphate binding,1
+Accessory,restriction endodeoxyribonuclease activity,1
+Accessory,ribokinase activity,1
+Accessory,secondary active transmembrane transporter activity,1
+Accessory,serine-type endopeptidase activity,1
+Accessory,siderophore uptake transmembrane transporter activity,1
+Accessory,site-specific recombinase activity,1
+Accessory,structural constituent of ribosome,1
+Accessory,structural molecule activity,1
+Accessory,sulfuric ester hydrolase activity,1
+Accessory,symporter activity,1
+Accessory,tRNA binding,1
+Accessory,thiamine pyrophosphate binding,1
+Accessory,thiolester hydrolase activity,1
+Accessory,toxic substance binding,1
+Accessory,toxin activity,1
+Accessory,toxin transmembrane transporter activity,1
+Accessory,transferase activity%2C transferring sulphur-containing groups,1
+Accessory,translation release factor activity,1
+Accessory,transmembrane transporter activity,1
+Accessory,transporter activity,1
+Accessory,transposase activity,1
+Accessory,voltage-gated chloride channel activity,1
+Accessory,xanthine phosphoribosyltransferase activity,1
+Accessory,xylose isomerase activity,1
+Accessory,zinc ion binding,1
+Accessory,zinc ion transmembrane transporter activity,1
+Core,(3R)-hydroxyacyl-[acyl-carrier-protein] dehydratase activity,1
+Core,(S)-2-hydroxy-acid oxidase activity,1
+Core,(d)CMP kinase activity,1
+Core,0000030,1
+Core,0000049,1
+Core,0000062,1
+Core,0000104,1
+Core,0000107,1
+Core,0000150,1
+Core,0000155,1
+Core,0000166,1
+Core,0000175,1
+Core,0000179,1
+Core,0000210,1
+Core,0000287,1
+Core,0000309,1
+Core,0000700,1
+Core,0000703,1
+Core,0000906,1
+Core,0001216,1
+Core,0001727,1
+Core,0002161,1
+Core,0002953,1
+Core,0003676,1
+Core,0003677,1
+Core,0003678,1
+Core,0003684,1
+Core,0003688,1
+Core,0003697,1
+Core,0003700,1
+Core,0003723,1
+Core,0003724,1
+Core,0003725,1
+Core,0003729,1
+Core,0003735,1
+Core,0003743,1
+Core,0003746,1
+Core,0003747,1
+Core,0003755,1
+Core,0003774,1
+Core,0003824,1
+Core,0003825,1
+Core,0003842,1
+Core,0003844,1
+Core,0003852,1
+Core,0003855,1
+Core,0003856,1
+Core,0003857,1
+Core,0003861,1
+Core,0003864,1
+Core,0003866,1
+Core,0003871,1
+Core,0003879,1
+Core,0003883,1
+Core,0003887,1
+Core,0003899,1
+Core,0003906,1
+Core,0003908,1
+Core,0003911,1
+Core,0003916,1
+Core,0003917,1
+Core,0003918,1
+Core,0003919,1
+Core,0003920,1
+Core,0003922,1
+Core,0003924,1
+Core,0003934,1
+Core,0003935,1
+Core,0003937,1
+Core,0003938,1
+Core,0003942,1
+Core,0003949,1
+Core,0003951,1
+Core,0003952,1
+Core,0003955,1
+Core,0003957,1
+Core,0003973,1
+Core,0003977,1
+Core,0003988,1
+Core,0003989,1
+Core,0003991,1
+Core,0003993,1
+Core,0003994,1
+Core,0003995,1
+Core,0003998,1
+Core,0003999,1
+Core,0004000,1
+Core,0004014,1
+Core,0004015,1
+Core,0004017,1
+Core,0004018,1
+Core,0004019,1
+Core,0004020,1
+Core,0004022,1
+Core,0004038,1
+Core,0004042,1
+Core,0004044,1
+Core,0004045,1
+Core,0004047,1
+Core,0004048,1
+Core,0004049,1
+Core,0004055,1
+Core,0004056,1
+Core,0004066,1
+Core,0004067,1
+Core,0004068,1
+Core,0004070,1
+Core,0004072,1
+Core,0004073,1
+Core,0004075,1
+Core,0004076,1
+Core,0004077,1
+Core,0004084,1
+Core,0004088,1
+Core,0004089,1
+Core,0004096,1
+Core,0004106,1
+Core,0004107,1
+Core,0004108,1
+Core,0004109,1
+Core,0004113,1
+Core,0004115,1
+Core,0004124,1
+Core,0004125,1
+Core,0004126,1
+Core,0004127,1
+Core,0004129,1
+Core,0004134,1
+Core,0004139,1
+Core,0004140,1
+Core,0004141,1
+Core,0004146,1
+Core,0004148,1
+Core,0004149,1
+Core,0004150,1
+Core,0004151,1
+Core,0004152,1
+Core,0004165,1
+Core,0004170,1
+Core,0004176,1
+Core,0004177,1
+Core,0004181,1
+Core,0004185,1
+Core,0004190,1
+Core,0004222,1
+Core,0004252,1
+Core,0004298,1
+Core,0004300,1
+Core,0004314,1
+Core,0004315,1
+Core,0004316,1
+Core,0004322,1
+Core,0004324,1
+Core,0004325,1
+Core,0004326,1
+Core,0004332,1
+Core,0004333,1
+Core,0004340,1
+Core,0004342,1
+Core,0004345,1
+Core,0004347,1
+Core,0004351,1
+Core,0004356,1
+Core,0004357,1
+Core,0004359,1
+Core,0004360,1
+Core,0004362,1
+Core,0004363,1
+Core,0004366,1
+Core,0004368,1
+Core,0004370,1
+Core,0004371,1
+Core,0004373,1
+Core,0004375,1
+Core,0004385,1
+Core,0004386,1
+Core,0004399,1
+Core,0004400,1
+Core,0004401,1
+Core,0004413,1
+Core,0004416,1
+Core,0004417,1
+Core,0004418,1
+Core,0004424,1
+Core,0004425,1
+Core,0004427,1
+Core,0004450,1
+Core,0004451,1
+Core,0004452,1
+Core,0004455,1
+Core,0004456,1
+Core,0004474,1
+Core,0004476,1
+Core,0004478,1
+Core,0004479,1
+Core,0004488,1
+Core,0004489,1
+Core,0004494,1
+Core,0004497,1
+Core,0004514,1
+Core,0004516,1
+Core,0004518,1
+Core,0004519,1
+Core,0004521,1
+Core,0004523,1
+Core,0004525,1
+Core,0004526,1
+Core,0004527,1
+Core,0004534,1
+Core,0004540,1
+Core,0004550,1
+Core,0004553,1
+Core,0004555,1
+Core,0004556,1
+Core,0004558,1
+Core,0004585,1
+Core,0004588,1
+Core,0004590,1
+Core,0004591,1
+Core,0004592,1
+Core,0004594,1
+Core,0004595,1
+Core,0004601,1
+Core,0004604,1
+Core,0004609,1
+Core,0004612,1
+Core,0004614,1
+Core,0004616,1
+Core,0004619,1
+Core,0004620,1
+Core,0004622,1
+Core,0004632,1
+Core,0004633,1
+Core,0004634,1
+Core,0004635,1
+Core,0004636,1
+Core,0004637,1
+Core,0004638,1
+Core,0004639,1
+Core,0004640,1
+Core,0004641,1
+Core,0004642,1
+Core,0004643,1
+Core,0004644,1
+Core,0004648,1
+Core,0004654,1
+Core,0004655,1
+Core,0004657,1
+Core,0004659,1
+Core,0004664,1
+Core,0004665,1
+Core,0004673,1
+Core,0004674,1
+Core,0004719,1
+Core,0004721,1
+Core,0004731,1
+Core,0004733,1
+Core,0004735,1
+Core,0004738,1
+Core,0004742,1
+Core,0004743,1
+Core,0004746,1
+Core,0004748,1
+Core,0004750,1
+Core,0004751,1
+Core,0004756,1
+Core,0004764,1
+Core,0004781,1
+Core,0004783,1
+Core,0004784,1
+Core,0004789,1
+Core,0004791,1
+Core,0004792,1
+Core,0004794,1
+Core,0004795,1
+Core,0004798,1
+Core,0004799,1
+Core,0004801,1
+Core,0004802,1
+Core,0004803,1
+Core,0004805,1
+Core,0004807,1
+Core,0004808,1
+Core,0004812,1
+Core,0004813,1
+Core,0004814,1
+Core,0004815,1
+Core,0004816,1
+Core,0004817,1
+Core,0004818,1
+Core,0004819,1
+Core,0004820,1
+Core,0004821,1
+Core,0004822,1
+Core,0004823,1
+Core,0004824,1
+Core,0004825,1
+Core,0004826,1
+Core,0004827,1
+Core,0004828,1
+Core,0004829,1
+Core,0004830,1
+Core,0004831,1
+Core,0004832,1
+Core,0004834,1
+Core,0004844,1
+Core,0004845,1
+Core,0004849,1
+Core,0004851,1
+Core,0004852,1
+Core,0004853,1
+Core,0004856,1
+Core,0004857,1
+Core,0004867,1
+Core,0005047,1
+Core,0005048,1
+Core,0005198,1
+Core,0005215,1
+Core,0005247,1
+Core,0005254,1
+Core,0005283,1
+Core,0005298,1
+Core,0005385,1
+Core,0005436,1
+Core,0005506,1
+Core,0005507,1
+Core,0005509,1
+Core,0005515,1
+Core,0005524,1
+Core,0005525,1
+Core,0005536,1
+Core,0005542,1
+Core,0008080,1
+Core,0008081,1
+Core,0008094,1
+Core,0008106,1
+Core,0008113,1
+Core,0008134,1
+Core,0008135,1
+Core,0008137,1
+Core,0008168,1
+Core,0008170,1
+Core,0008172,1
+Core,0008173,1
+Core,0008176,1
+Core,0008184,1
+Core,0008186,1
+Core,0008199,1
+Core,0008233,1
+Core,0008234,1
+Core,0008236,1
+Core,0008237,1
+Core,0008251,1
+Core,0008252,1
+Core,0008253,1
+Core,0008270,1
+Core,0008310,1
+Core,0008311,1
+Core,0008320,1
+Core,0008324,1
+Core,0008374,1
+Core,0008379,1
+Core,0008408,1
+Core,0008409,1
+Core,0008412,1
+Core,0008413,1
+Core,0008428,1
+Core,0008441,1
+Core,0008444,1
+Core,0008448,1
+Core,0008460,1
+Core,0008478,1
+Core,0008479,1
+Core,0008484,1
+Core,0008495,1
+Core,0008519,1
+Core,0008534,1
+Core,0008556,1
+Core,0008641,1
+Core,0008649,1
+Core,0008658,1
+Core,0008661,1
+Core,0008664,1
+Core,0008666,1
+Core,0008672,1
+Core,0008676,1
+Core,0008677,1
+Core,0008679,1
+Core,0008685,1
+Core,0008686,1
+Core,0008690,1
+Core,0008692,1
+Core,0008695,1
+Core,0008696,1
+Core,0008697,1
+Core,0008703,1
+Core,0008705,1
+Core,0008710,1
+Core,0008712,1
+Core,0008714,1
+Core,0008715,1
+Core,0008716,1
+Core,0008720,1
+Core,0008721,1
+Core,0008726,1
+Core,0008728,1
+Core,0008730,1
+Core,0008733,1
+Core,0008734,1
+Core,0008736,1
+Core,0008737,1
+Core,0008740,1
+Core,0008741,1
+Core,0008743,1
+Core,0008745,1
+Core,0008747,1
+Core,0008750,1
+Core,0008752,1
+Core,0008756,1
+Core,0008757,1
+Core,0008758,1
+Core,0008760,1
+Core,0008761,1
+Core,0008762,1
+Core,0008763,1
+Core,0008764,1
+Core,0008770,1
+Core,0008771,1
+Core,0008772,1
+Core,0008779,1
+Core,0008780,1
+Core,0008782,1
+Core,0008783,1
+Core,0008784,1
+Core,0008785,1
+Core,0008788,1
+Core,0008791,1
+Core,0008792,1
+Core,0008794,1
+Core,0008795,1
+Core,0008798,1
+Core,0008800,1
+Core,0008803,1
+Core,0008804,1
+Core,0008808,1
+Core,0008813,1
+Core,0008814,1
+Core,0008815,1
+Core,0008817,1
+Core,0008818,1
+Core,0008821,1
+Core,0008828,1
+Core,0008829,1
+Core,0008832,1
+Core,0008834,1
+Core,0008835,1
+Core,0008836,1
+Core,0008837,1
+Core,0008838,1
+Core,0008839,1
+Core,0008840,1
+Core,0008849,1
+Core,0008854,1
+Core,0008855,1
+Core,0008859,1
+Core,0008863,1
+Core,0008864,1
+Core,0008869,1
+Core,0008878,1
+Core,0008879,1
+Core,0008880,1
+Core,0008881,1
+Core,0008882,1
+Core,0008883,1
+Core,0008893,1
+Core,0008894,1
+Core,0008897,1
+Core,0008899,1
+Core,0008901,1
+Core,0008902,1
+Core,0008909,1
+Core,0008914,1
+Core,0008915,1
+Core,0008920,1
+Core,0008922,1
+Core,0008924,1
+Core,0008926,1
+Core,0008927,1
+Core,0008929,1
+Core,0008930,1
+Core,0008933,1
+Core,0008934,1
+Core,0008939,1
+Core,0008940,1
+Core,0008941,1
+Core,0008949,1
+Core,0008951,1
+Core,0008955,1
+Core,0008959,1
+Core,0008961,1
+Core,0008962,1
+Core,0008963,1
+Core,0008964,1
+Core,0008965,1
+Core,0008966,1
+Core,0008967,1
+Core,0008968,1
+Core,0008972,1
+Core,0008973,1
+Core,0008974,1
+Core,0008976,1
+Core,0008977,1
+Core,0008982,1
+Core,0008986,1
+Core,0008987,1
+Core,0008988,1
+Core,0008990,1
+Core,0008993,1
+Core,0008995,1
+Core,0008998,1
+Core,0009001,1
+Core,0009002,1
+Core,0009007,1
+Core,0009009,1
+Core,0009014,1
+Core,0009015,1
+Core,0009017,1
+Core,0009029,1
+Core,0009030,1
+Core,0009032,1
+Core,0009034,1
+Core,0009055,1
+Core,0009378,1
+Core,0009381,1
+Core,0009384,1
+Core,0009975,1
+Core,0009982,1
+Core,0010181,1
+Core,0010340,1
+Core,0010945,1
+Core,0015035,1
+Core,0015078,1
+Core,0015079,1
+Core,0015081,1
+Core,0015087,1
+Core,0015093,1
+Core,0015095,1
+Core,0015098,1
+Core,0015099,1
+Core,0015112,1
+Core,0015116,1
+Core,0015123,1
+Core,0015129,1
+Core,0015136,1
+Core,0015144,1
+Core,0015153,1
+Core,0015171,1
+Core,0015221,1
+Core,0015232,1
+Core,0015233,1
+Core,0015250,1
+Core,0015267,1
+Core,0015288,1
+Core,0015293,1
+Core,0015295,1
+Core,0015297,1
+Core,0015344,1
+Core,0015370,1
+Core,0015385,1
+Core,0015411,1
+Core,0015413,1
+Core,0015419,1
+Core,0015424,1
+Core,0015444,1
+Core,0015450,1
+Core,0015473,1
+Core,0015501,1
+Core,0015503,1
+Core,0015562,1
+Core,0015572,1
+Core,0015574,1
+Core,0015633,1
+Core,0015649,1
+Core,0015930,1
+Core,0016151,1
+Core,0016209,1
+Core,0016298,1
+Core,0016301,1
+Core,0016407,1
+Core,0016410,1
+Core,0016430,1
+Core,0016434,1
+Core,0016436,1
+Core,0016462,1
+Core,0016491,1
+Core,0016530,1
+Core,0016614,1
+Core,0016616,1
+Core,0016618,1
+Core,0016620,1
+Core,0016627,1
+Core,0016639,1
+Core,0016651,1
+Core,0016661,1
+Core,0016667,1
+Core,0016682,1
+Core,0016684,1
+Core,0016705,1
+Core,0016709,1
+Core,0016722,1
+Core,0016731,1
+Core,0016740,1
+Core,0016742,1
+Core,0016743,1
+Core,0016746,1
+Core,0016747,1
+Core,0016757,1
+Core,0016758,1
+Core,0016760,1
+Core,0016763,1
+Core,0016765,1
+Core,0016772,1
+Core,0016773,1
+Core,0016776,1
+Core,0016779,1
+Core,0016780,1
+Core,0016782,1
+Core,0016783,1
+Core,0016787,1
+Core,0016788,1
+Core,0016790,1
+Core,0016791,1
+Core,0016798,1
+Core,0016799,1
+Core,0016805,1
+Core,0016810,1
+Core,0016811,1
+Core,0016817,1
+Core,0016818,1
+Core,0016829,1
+Core,0016831,1
+Core,0016832,1
+Core,0016835,1
+Core,0016836,1
+Core,0016853,1
+Core,0016854,1
+Core,0016855,1
+Core,0016857,1
+Core,0016868,1
+Core,0016874,1
+Core,0016879,1
+Core,0016881,1
+Core,0016887,1
+Core,0016891,1
+Core,0016896,1
+Core,0016901,1
+Core,0016903,1
+Core,0016966,1
+Core,0016987,1
+Core,0016989,1
+Core,0016992,1
+Core,0017108,1
+Core,0017113,1
+Core,0017150,1
+Core,0017168,1
+Core,0018738,1
+Core,0019104,1
+Core,0019134,1
+Core,0019165,1
+Core,0019171,1
+Core,0019177,1
+Core,0019180,1
+Core,0019213,1
+Core,0019534,1
+Core,0019808,1
+Core,0019825,1
+Core,0019829,1
+Core,0019843,1
+Core,0020037,1
+Core,0022857,1
+Core,0022877,1
+Core,0030060,1
+Core,0030145,1
+Core,0030151,1
+Core,0030170,1
+Core,0030267,1
+Core,0030527,1
+Core,0030554,1
+Core,0030599,1
+Core,0030604,1
+Core,0030674,1
+Core,0030697,1
+Core,0030798,1
+Core,0030975,1
+Core,0030976,1
+Core,0030983,1
+Core,0031071,1
+Core,0031177,1
+Core,0031267,1
+Core,0031402,1
+Core,0031419,1
+Core,0032977,1
+Core,0033232,1
+Core,0033592,1
+Core,0033711,1
+Core,0033739,1
+Core,0033743,1
+Core,0033744,1
+Core,0033819,1
+Core,0033856,1
+Core,0033862,1
+Core,0033863,1
+Core,0033890,1
+Core,0034040,1
+Core,0034057,1
+Core,0034228,1
+Core,0034634,1
+Core,0035312,1
+Core,0035438,1
+Core,0036374,1
+Core,0036380,1
+Core,0036424,1
+Core,0038023,1
+Core,0042132,1
+Core,0042277,1
+Core,0042279,1
+Core,0042286,1
+Core,0042301,1
+Core,0042586,1
+Core,0042626,1
+Core,0042802,1
+Core,0042803,1
+Core,0042806,1
+Core,0042834,1
+Core,0042910,1
+Core,0042931,1
+Core,0043022,1
+Core,0043115,1
+Core,0043365,1
+Core,0043531,1
+Core,0043546,1
+Core,0043565,1
+Core,0043752,1
+Core,0043755,1
+Core,0043811,1
+Core,0043828,1
+Core,0043856,1
+Core,0043867,1
+Core,0045148,1
+Core,0045182,1
+Core,0046429,1
+Core,0046872,1
+Core,0046914,1
+Core,0046933,1
+Core,0046983,1
+Core,0047111,1
+Core,0047241,1
+Core,0047324,1
+Core,0047429,1
+Core,0047465,1
+Core,0047480,1
+Core,0047652,1
+Core,0047813,1
+Core,0047834,1
+Core,0047952,1
+Core,0048038,1
+Core,0048502,1
+Core,0050131,1
+Core,0050136,1
+Core,0050218,1
+Core,0050262,1
+Core,0050380,1
+Core,0050440,1
+Core,0050498,1
+Core,0050511,1
+Core,0050515,1
+Core,0050518,1
+Core,0050519,1
+Core,0050570,1
+Core,0050580,1
+Core,0050660,1
+Core,0050661,1
+Core,0051073,1
+Core,0051075,1
+Core,0051082,1
+Core,0051087,1
+Core,0051139,1
+Core,0051213,1
+Core,0051266,1
+Core,0051287,1
+Core,0051536,1
+Core,0051537,1
+Core,0051539,1
+Core,0051745,1
+Core,0051920,1
+Core,0051989,1
+Core,0052381,1
+Core,0052621,1
+Core,0052689,1
+Core,0052693,1
+Core,0052737,1
+Core,0052855,1
+Core,0052906,1
+Core,0055056,1
+Core,0061459,1
+Core,0061542,1
+Core,0061710,1
+Core,0061799,1
+Core,0061928,1
+Core,0061929,1
+Core,0062192,1
+Core,0070006,1
+Core,0070063,1
+Core,0070205,1
+Core,0070401,1
+Core,0070402,1
+Core,0070403,1
+Core,0070567,1
+Core,0070733,1
+Core,0071111,1
+Core,0071522,1
+Core,0071949,1
+Core,0089714,1
+Core,0097163,1
+Core,0097657,1
+Core,0101006,1
+Core,0102039,1
+Core,0103117,1
+Core,0120225,1
+Core,0120549,1
+Core,0140078,1
+Core,0140110,1
+Core,0140359,1
+Core,0140658,1
+Core,0140662,1
+Core,0140741,1
+Core,0141100,1
+Core,1%2C4-alpha-glucan branching enzyme activity,1
+Core,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase activity,1
+Core,1-deoxy-D-xylulose-5-phosphate synthase activity,1
+Core,1904047,1
+Core,1904680,1
+Core,1990610,1
+Core,1990817,1
+Core,2 iron%2C 2 sulfur cluster binding,1
+Core,2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-succinyltransferase activity,1
+Core,2%2C5-didehydrogluconate reductase activity,1
+Core,2'%2C3'-cyclic-nucleotide 3'-phosphodiesterase activity,1
+Core,2-C-methyl-D-erythritol 2%2C4-cyclodiphosphate synthase activity,1
+Core,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase activity,1
+Core,2-dehydro-3-deoxyglucarate aldolase activity,1
+Core,2-dehydropantoate 2-reductase activity,1
+Core,2-hydroxy-3-oxopropionate reductase activity,1
+Core,2-isopropylmalate synthase activity,1
+Core,2-keto-3-deoxygluconate:proton symporter activity,1
+Core,2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase activity,1
+Core,3%2C4-dihydroxy-2-butanone-4-phosphate synthase activity,1
+Core,3'%2C5'-cyclic-AMP phosphodiesterase activity,1
+Core,3'-5' exonuclease activity,1
+Core,3'-5'-RNA exonuclease activity,1
+Core,3-dehydroquinate dehydratase activity,1
+Core,3-dehydroquinate synthase activity,1
+Core,3-demethylubiquinol 3-O-methyltransferase activity,1
+Core,3-deoxy-8-phosphooctulonate synthase activity,1
+Core,3-deoxy-manno-octulosonate cytidylyltransferase activity,1
+Core,3-hydroxyacyl-CoA dehydrogenase activity,1
+Core,3-isopropylmalate dehydratase activity,1
+Core,3-methyl-2-oxobutanoate hydroxymethyltransferase activity,1
+Core,3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity,1
+Core,3-oxoacyl-[acyl-carrier-protein] synthase activity,1
+Core,3-phenylpropionate dioxygenase activity,1
+Core,3-phosphoshikimate 1-carboxyvinyltransferase activity,1
+Core,4 iron%2C 4 sulfur cluster binding,1
+Core,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase activity,1
+Core,4-alpha-glucanotransferase activity,1
+Core,4-amino-4-deoxychorismate lyase activity,1
+Core,4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase activity,1
+Core,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity (ferredoxin),1
+Core,4-hydroxy-tetrahydrodipicolinate reductase,1
+Core,4-hydroxy-tetrahydrodipicolinate synthase activity,1
+Core,4-hydroxybenzoate polyprenyltransferase activity,1
+Core,4-hydroxythreonine-4-phosphate dehydrogenase activity,1
+Core,4-phosphoerythronate dehydrogenase activity,1
+Core,5'-3' RNA exonuclease activity,1
+Core,5'-3' exonuclease activity,1
+Core,5'-deoxynucleotidase activity,1
+Core,5'-nucleotidase activity,1
+Core,5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity,1
+Core,5-oxoprolinase (ATP-hydrolyzing) activity,1
+Core,6%2C7-dimethyl-8-ribityllumazine synthase activity,1
+Core,8-amino-7-oxononanoate synthase activity,1
+Core,8-oxo-7%2C8-dihydroguanosine triphosphate pyrophosphatase activity,1
+Core,ABC-type amino acid transporter activity,1
+Core,ABC-type nickel transporter activity,1
+Core,ABC-type taurine transporter transporter activity,1
+Core,ABC-type transporter activity,1
+Core,ADP-dependent NAD(P)H-hydrate dehydratase activity,1
+Core,ADP-glyceromanno-heptose 6-epimerase activity,1
+Core,AMP nucleosidase activity,1
+Core,ATP binding,1
+Core,ATP hydrolysis activity,1
+Core,ATP phosphoribosyltransferase activity,1
+Core,ATP-dependent peptidase activity,1
+Core,ATP-dependent protein folding chaperone,1
+Core,ATPase-coupled transmembrane transporter activity,1
+Core,CDP-diacylglycerol diphosphatase activity,1
+Core,CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity,1
+Core,CTP synthase activity,1
+Core,D-alanine-D-alanine ligase activity,1
+Core,D-arabinitol 4-dehydrogenase activity,1
+Core,D-lactate dehydrogenase activity,1
+Core,D-ribulose-phosphate 3-epimerase activity,1
+Core,D-sedoheptulose 7-phosphate isomerase activity,1
+Core,D-serine ammonia-lyase activity,1
+Core,D-threo-aldose 1-dehydrogenase activity,1
+Core,D-xylulokinase activity,1
+Core,DNA N-glycosylase activity,1
+Core,DNA binding,1
+Core,DNA helicase activity,1
+Core,DNA ligase (NAD+) activity,1
+Core,DNA strand exchange activity,1
+Core,DNA topoisomerase type II (double strand cut%2C ATP-hydrolyzing) activity,1
+Core,DNA-(apurinic or apyrimidinic site) endonuclease activity,1
+Core,DNA-binding transcription activator activity,1
+Core,DNA-binding transcription factor activity,1
+Core,DNA-directed DNA polymerase activity,1
+Core,DNA-directed RNA polymerase activity,1
+Core,FMN adenylyltransferase activity,1
+Core,FMN binding,1
+Core,FMN reductase [NAD(P)H] activity,1
+Core,GMP reductase activity,1
+Core,GMP synthase (glutamine-hydrolyzing) activity,1
+Core,GTP binding,1
+Core,GTP cyclohydrolase I activity,1
+Core,GTP cyclohydrolase II activity,1
+Core,GTP diphosphokinase activity,1
+Core,GTPase activity,1
+Core,IEA,1
+Core,"IEA,1-deoxy-D-xylulose-5-phosphate reductoisomerase activity",1
+Core,"IEA,1-pyrroline-5-carboxylate dehydrogenase activity",1
+Core,"IEA,2 iron%2C 2 sulfur cluster binding",1
+Core,"IEA,2-methylcitrate synthase activity",1
+Core,"IEA,3'%2C5'-nucleotide bisphosphate phosphatase activity",1
+Core,"IEA,3'(2')%2C5'-bisphosphate nucleotidase activity",1
+Core,"IEA,3'-5' exonuclease activity",1
+Core,"IEA,3-hydroxybutyryl-CoA epimerase activity",1
+Core,"IEA,4 iron%2C 4 sulfur cluster binding",1
+Core,"IEA,4-hydroxy-3-methylbut-2-enyl diphosphate reductase activity",1
+Core,"IEA,5'-3' DNA exonuclease activity",1
+Core,"IEA,5'-flap endonuclease activity",1
+Core,"IEA,5-amino-6-(5-phosphoribosylamino)uracil reductase activity",1
+Core,"IEA,7-cyano-7-deazaguanine tRNA-ribosyltransferase activity",1
+Core,"IEA,ABC-type D-methionine transporter activity",1
+Core,"IEA,ABC-type sulfate transporter activity",1
+Core,"IEA,ABC-type thiamine transporter activity",1
+Core,"IEA,ABC-type transporter activity",1
+Core,"IEA,ABC-type zinc transporter activity",1
+Core,"IEA,ADP binding",1
+Core,"IEA,AMPylase activity",1
+Core,"IEA,ATP binding",1
+Core,"IEA,ATP hydrolysis activity",1
+Core,"IEA,ATP-dependent activity%2C acting on DNA",1
+Core,"IEA,ATP-dependent activity%2C acting on RNA",1
+Core,"IEA,ATP-dependent chromatin remodeler activity",1
+Core,"IEA,ATP-dependent protein folding chaperone",1
+Core,"IEA,ATPase-coupled lipid transmembrane transporter activity",1
+Core,"IEA,ATPase-coupled monoatomic cation transmembrane transporter activity",1
+Core,"IEA,ATPase-coupled transmembrane transporter activity",1
+Core,"IEA,D-glucose binding",1
+Core,"IEA,D-glucose transmembrane transporter activity",1
+Core,"IEA,DNA N-glycosylase activity",1
+Core,"IEA,DNA binding",1
+Core,"IEA,DNA helicase activity",1
+Core,"IEA,DNA ligase (NAD+) activity",1
+Core,"IEA,DNA replication origin binding",1
+Core,"IEA,DNA topoisomerase activity",1
+Core,"IEA,DNA topoisomerase type I (single strand cut%2C ATP-independent) activity",1
+Core,"IEA,DNA topoisomerase type II (double strand cut%2C ATP-hydrolyzing) activity",1
+Core,"IEA,DNA-(apurinic or apyrimidinic site) endonuclease activity",1
+Core,"IEA,DNA-binding transcription factor activity",1
+Core,"IEA,DNA-directed DNA polymerase activity",1
+Core,"IEA,DNA-directed RNA polymerase activity",1
+Core,"IEA,FAD binding",1
+Core,"IEA,FMN binding",1
+Core,"IEA,GTP binding",1
+Core,"IEA,GTPase activity",1
+Core,"IEA,L-methionine:thioredoxin-disulfide S-oxidoreductase activity",1
+Core,"IEA,L-rhamnose mutarotase activity",1
+Core,"IEA,L-threonylcarbamoyladenylate synthase",1
+Core,"IEA,N-acetylglucosamine transmembrane transporter activity",1
+Core,"IEA,N-acylmannosamine kinase activity",1
+Core,"IEA,N-methyltransferase activity",1
+Core,"IEA,NAD binding",1
+Core,"IEA,NAD+ binding",1
+Core,"IEA,NAD+ synthase activity",1
+Core,"IEA,NADH:ubiquinone reductase (non-electrogenic) activity",1
+Core,"IEA,NADP binding",1
+Core,"IEA,NADP+ binding",1
+Core,"IEA,NADPH binding",1
+Core,"IEA,O-phospho-L-serine:2-oxoglutarate aminotransferase activity",1
+Core,"IEA,P-type potassium transmembrane transporter activity",1
+Core,"IEA,RNA 2'%2C3'-cyclic 3'-phosphodiesterase activity",1
+Core,"IEA,RNA helicase activity",1
+Core,"IEA,RNA methyltransferase activity",1
+Core,"IEA,RNA nuclease activity",1
+Core,"IEA,RNA polymerase binding",1
+Core,"IEA,RNA strand annealing activity",1
+Core,"IEA,RNA strand-exchange activity",1
+Core,"IEA,RNA-DNA hybrid ribonuclease activity",1
+Core,"IEA,S-adenosyl-L-methionine binding",1
+Core,"IEA,S-adenosylmethionine-dependent methyltransferase activity",1
+Core,"IEA,UDP-N-acetyl-D-mannosamine dehydrogenase activity",1
+Core,"IEA,UDP-N-acetylglucosamine diphosphorylase activity",1
+Core,"IEA,UDP-N-acetylglucosamine-undecaprenyl-phosphate N-acetylglucosaminephosphotransferase activity",1
+Core,"IEA,UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase activity",1
+Core,"IEA,UDP-N-acetylmuramoylalanine-D-glutamate ligase activity",1
+Core,"IEA,acid-amino acid ligase activity",1
+Core,"IEA,acyltransferase activity",1
+Core,"IEA,adenosylcobinamide kinase activity",1
+Core,"IEA,adenosylcobinamide-GDP ribazoletransferase activity",1
+Core,"IEA,adenyl nucleotide binding",1
+Core,"IEA,alanine-tRNA ligase activity",1
+Core,"IEA,aminoacyl-tRNA ligase activity",1
+Core,"IEA,carboxyl- or carbamoyltransferase activity",1
+Core,"IEA,catalytic activity",1
+Core,"IEA,citrate (pro-3S)-lyase activity",1
+Core,"IEA,class I DNA-(apurinic or apyrimidinic site) endonuclease activity",1
+Core,"IEA,cobalamin binding",1
+Core,"IEA,coenzyme A diphosphatase activity",1
+Core,"IEA,coproporphyrinogen dehydrogenase activity",1
+Core,"IEA,cyclic-di-GMP binding",1
+Core,"IEA,cyclic-guanylate-specific phosphodiesterase activity",1
+Core,"IEA,cysteine desulfurase activity",1
+Core,"IEA,cysteine-type peptidase activity",1
+Core,"IEA,dGTPase activity",1
+Core,"IEA,dUTP diphosphatase activity",1
+Core,"IEA,damaged DNA binding",1
+Core,"IEA,delta(3)-delta(2)-enoyl-CoA isomerase activity",1
+Core,"IEA,dethiobiotin synthase activity",1
+Core,"IEA,diaminohydroxyphosphoribosylaminopyrimidine deaminase activity",1
+Core,"IEA,diguanylate cyclase activity",1
+Core,"IEA,dihydroneopterin triphosphate pyrophosphohydrolase activity",1
+Core,"IEA,ditrans%2Cpolycis-undecaprenyl-diphosphate synthase [(2E%2C6E)-farnesyl-diphosphate specific] activity",1
+Core,"IEA,double-stranded DNA 3'-5' DNA exonuclease activity",1
+Core,"IEA,electron transfer activity",1
+Core,"IEA,endonuclease activity",1
+Core,"IEA,enoyl-CoA hydratase activity",1
+Core,"IEA,enterochelin esterase activity",1
+Core,"IEA,epoxyqueuosine reductase activity",1
+Core,"IEA,exodeoxyribonuclease V activity",1
+Core,"IEA,exoribonuclease II activity",1
+Core,"IEA,ferric iron binding",1
+Core,"IEA,ferrous iron transmembrane transporter activity",1
+Core,"IEA,flavin adenine dinucleotide binding",1
+Core,"IEA,formate dehydrogenase (cytochrome-c-553) activity",1
+Core,"IEA,four-way junction helicase activity",1
+Core,"IEA,fucose binding",1
+Core,"IEA,glucosamine-1-phosphate N-acetyltransferase activity",1
+Core,"IEA,glutamate synthase activity",1
+Core,"IEA,glutamate-tRNA ligase activity",1
+Core,"IEA,glutaminase activity",1
+Core,"IEA,glutamine-tRNA ligase activity",1
+Core,"IEA,glycine-tRNA ligase activity",1
+Core,"IEA,glyoxylate reductase (NADPH) activity",1
+Core,"IEA,guanosine-3'%2C5'-bis(diphosphate) 3'-diphosphatase activity",1
+Core,"IEA,helicase activity",1
+Core,"IEA,heme binding",1
+Core,"IEA,holo-[acyl-carrier-protein] synthase activity",1
+Core,"IEA,hydro-lyase activity",1
+Core,"IEA,hydrolase activity",1
+Core,"IEA,hydrolase activity%2C acting on acid anhydrides",1
+Core,"IEA,hydrolase activity%2C acting on acid anhydrides%2C in phosphorus-containing anhydrides",1
+Core,"IEA,hydrolase activity%2C hydrolyzing N-glycosyl compounds",1
+Core,"IEA,imidazoleglycerol-phosphate dehydratase activity",1
+Core,"IEA,intramolecular phosphotransferase activity",1
+Core,"IEA,iron ion binding",1
+Core,"IEA,iron-sulfur cluster binding",1
+Core,"IEA,isocitrate dehydrogenase (NADP+) activity",1
+Core,"IEA,isoleucine-tRNA ligase activity",1
+Core,"IEA,isomerase activity",1
+Core,"IEA,kinase activity",1
+Core,"IEA,leucine-tRNA ligase activity",1
+Core,"IEA,ligase activity",1
+Core,"IEA,ligase activity%2C forming carbon-nitrogen bonds",1
+Core,"IEA,long-chain fatty acid [acyl-carrier-protein] ligase activity",1
+Core,"IEA,lyase activity",1
+Core,"IEA,mRNA binding",1
+Core,"IEA,magnesium ion transmembrane transporter activity",1
+Core,"IEA,manganese ion binding",1
+Core,"IEA,metal ion binding",1
+Core,"IEA,metalloaminopeptidase activity",1
+Core,"IEA,metalloendopeptidase activity",1
+Core,"IEA,metallopeptidase activity",1
+Core,"IEA,methionine synthase activity",1
+Core,"IEA,methionine-tRNA ligase activity",1
+Core,"IEA,methylated-DNA-[protein]-cysteine S-methyltransferase activity",1
+Core,"IEA,methylthioadenosine nucleosidase activity",1
+Core,"IEA,methyltransferase activity",1
+Core,"IEA,mismatched DNA binding",1
+Core,"IEA,molybdenum ion binding",1
+Core,"IEA,molybdopterin cofactor binding",1
+Core,"IEA,nickel cation binding",1
+Core,"IEA,nitric oxide reductase activity",1
+Core,"IEA,nitrite reductase (cytochrome%2C ammonia-forming) activity",1
+Core,"IEA,nucleic acid binding",1
+Core,"IEA,o-succinylbenzoate-CoA ligase activity",1
+Core,"IEA,oxalyl-CoA decarboxylase activity",1
+Core,"IEA,oxidized purine nucleobase lesion DNA N-glycosylase activity",1
+Core,"IEA,oxidoreductase activity",1
+Core,"IEA,oxidoreductase activity%2C acting on CH-OH group of donors",1
+Core,"IEA,oxidoreductase activity%2C acting on peroxide as acceptor",1
+Core,"IEA,oxidoreductase activity%2C acting on the CH-CH group of donors",1
+Core,"IEA,oxidoreductase activity%2C acting on the CH-OH group of donors%2C NAD or NADP as acceptor",1
+Core,"IEA,oxidoreductase activity%2C acting on the aldehyde or oxo group of donors",1
+Core,"IEA,oxidoreductase activity%2C acting on the aldehyde or oxo group of donors%2C NAD or NADP as acceptor",1
+Core,"IEA,oxygen binding",1
+Core,"IEA,pantothenate transmembrane transporter activity",1
+Core,"IEA,pentosyltransferase activity",1
+Core,"IEA,peptidase activity",1
+Core,"IEA,peptide binding",1
+Core,"IEA,peptidoglycan glycosyltransferase activity",1
+Core,"IEA,peptidoglycan lytic transglycosylase activity",1
+Core,"IEA,peroxidase activity",1
+Core,"IEA,phenylalanine-tRNA ligase activity",1
+Core,"IEA,phosphatase activity",1
+Core,"IEA,phosphoglucosamine mutase activity",1
+Core,"IEA,phosphomethylpyrimidine kinase activity",1
+Core,"IEA,phosphopantetheine binding",1
+Core,"IEA,phosphopantothenoylcysteine decarboxylase activity",1
+Core,"IEA,phosphopentomutase activity",1
+Core,"IEA,phosphoprotein phosphatase activity",1
+Core,"IEA,phosphopyruvate hydratase activity",1
+Core,"IEA,phosphoribosyl-ATP diphosphatase activity",1
+Core,"IEA,phosphoribosylaminoimidazolecarboxamide formyltransferase activity",1
+Core,"IEA,phosphoribosylanthranilate isomerase activity",1
+Core,"IEA,phosphoribosylglycinamide formyltransferase activity",1
+Core,"IEA,phosphoribulokinase activity",1
+Core,"IEA,phosphotransferase activity%2C for other substituted phosphate groups",1
+Core,"IEA,phosphotransferase activity%2C phosphate group as acceptor",1
+Core,"IEA,poly(A) RNA polymerase activity",1
+Core,"IEA,polyribonucleotide nucleotidyltransferase activity",1
+Core,"IEA,precorrin-2 dehydrogenase activity",1
+Core,"IEA,prephenate dehydratase activity",1
+Core,"IEA,prephenate dehydrogenase (NAD+) activity",1
+Core,"IEA,prephenate dehydrogenase (NADP+) activity",1
+Core,"IEA,proline dehydrogenase activity",1
+Core,"IEA,protein binding",1
+Core,"IEA,protein dimerization activity",1
+Core,"IEA,protein histidine kinase activity",1
+Core,"IEA,protein homodimerization activity",1
+Core,"IEA,protein-N(PI)-phosphohistidine-fructose phosphotransferase system transporter activity",1
+Core,"IEA,pseudouridine synthase activity",1
+Core,"IEA,purine-nucleoside phosphorylase activity",1
+Core,"IEA,pyridoxal phosphate binding",1
+Core,"IEA,pyrophosphatase activity",1
+Core,"IEA,pyruvate dehydrogenase (quinone) activity",1
+Core,"IEA,pyruvate%2C water dikinase activity",1
+Core,"IEA,rRNA (guanine-N2-)-methyltransferase activity",1
+Core,"IEA,rRNA binding",1
+Core,"IEA,rRNA methyltransferase activity",1
+Core,"IEA,ribonuclease D activity",1
+Core,"IEA,ribonuclease E activity",1
+Core,"IEA,ribonuclease III activity",1
+Core,"IEA,ribonuclease P activity",1
+Core,"IEA,ribosome binding",1
+Core,"IEA,ribosylnicotinamide kinase activity",1
+Core,"IEA,ribulokinase activity",1
+Core,"IEA,sequence-specific DNA binding",1
+Core,"IEA,serine-tRNA ligase activity",1
+Core,"IEA,serine-type D-Ala-D-Ala carboxypeptidase activity",1
+Core,"IEA,serine-type endopeptidase activity",1
+Core,"IEA,serine-type peptidase activity",1
+Core,"IEA,sigma factor activity",1
+Core,"IEA,signal recognition particle binding",1
+Core,"IEA,signal sequence binding",1
+Core,"IEA,signaling receptor activity",1
+Core,"IEA,single-stranded DNA 3'-5' DNA exonuclease activity",1
+Core,"IEA,single-stranded DNA binding",1
+Core,"IEA,sirohydrochlorin ferrochelatase activity",1
+Core,"IEA,site-specific DNA-methyltransferase (adenine-specific) activity",1
+Core,"IEA,sodium ion binding",1
+Core,"IEA,solute:proton symporter activity",1
+Core,"IEA,solute:sodium symporter activity",1
+Core,"IEA,structural constituent of chromatin",1
+Core,"IEA,structural constituent of ribosome",1
+Core,"IEA,succinylglutamate desuccinylase activity",1
+Core,"IEA,sulfurtransferase activity",1
+Core,"IEA,symporter activity",1
+Core,"IEA,tRNA (adenine-N6)-methyltransferase activity",1
+Core,"IEA,thiamine pyrophosphate binding",1
+Core,"IEA,transcription factor binding",1
+Core,"IEA,transcription regulator activity",1
+Core,"IEA,transferase activity",1
+Core,"IEA,transferase activity%2C transferring phosphorus-containing groups",1
+Core,"IEA,transferase activity%2C transferring sulphur-containing groups",1
+Core,"IEA,transition metal ion binding",1
+Core,"IEA,translation elongation factor activity",1
+Core,"IEA,transmembrane transporter activity",1
+Core,"IEA,trehalose transmembrane transporter activity",1
+Core,"IEA,tripeptide aminopeptidase activity",1
+Core,"IEA,tryptophan-tRNA ligase activity",1
+Core,"IEA,tyrosine-tRNA ligase activity",1
+Core,"IEA,unfolded protein binding",1
+Core,"IEA,valine-tRNA ligase activity",1
+Core,"IEA,xenobiotic transmembrane transporter activity",1
+Core,"IEA,zinc ion binding",1
+Core,IMP cyclohydrolase activity,1
+Core,IMP dehydrogenase activity,1
+Core,L(+)-tartrate dehydratase activity,1
+Core,L-arabinose isomerase activity,1
+Core,L-arginine transmembrane transporter activity,1
+Core,L-aspartate oxidase activity,1
+Core,L-fucose isomerase activity,1
+Core,L-fuculokinase activity,1
+Core,L-glutamate N-acetyltransferase activity,1
+Core,L-malate dehydrogenase (NAD+) activity,1
+Core,L-malate dehydrogenase (quinone) activity,1
+Core,L-phosphoserine phosphatase activity,1
+Core,L-rhamnose isomerase activity,1
+Core,L-seryl-tRNA(Sec) selenium transferase activity,1
+Core,L-threonine 3-dehydrogenase activity,1
+Core,N-acetyl-gamma-glutamyl-phosphate reductase activity,1
+Core,N-acetylglucosamine-6-phosphate deacetylase activity,1
+Core,N-acetylmuramoyl-L-alanine amidase activity,1
+Core,N-acetylneuraminate lyase activity,1
+Core,N-acetyltransferase activity,1
+Core,N-acylglucosamine-6-phosphate 2-epimerase activity,1
+Core,N-acyltransferase activity,1
+Core,N-methyl-L-amino-acid oxidase activity,1
+Core,N-succinylarginine dihydrolase activity,1
+Core,N6-(1%2C2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity,1
+Core,NAD binding,1
+Core,NAD(P)+ transhydrogenase (Si-specific) activity,1
+Core,NAD(P)H dehydrogenase (quinone) activity,1
+Core,NAD+ binding,1
+Core,NAD+ diphosphatase activity,1
+Core,NAD+ kinase activity,1
+Core,NAD+ synthase (glutamine-hydrolyzing) activity,1
+Core,NADH dehydrogenase (ubiquinone) activity,1
+Core,NADH-dependent peroxiredoxin activity,1
+Core,NADH:ubiquinone reductase (non-electrogenic) activity,1
+Core,O-acyltransferase activity,1
+Core,P-type magnesium transporter activity,1
+Core,P-type potassium transmembrane transporter activity,1
+Core,RNA binding,1
+Core,RNA endonuclease activity,1
+Core,RNA endonuclease activity%2C producing 5'-phosphomonoesters,1
+Core,RNA exonuclease activity%2C producing 5'-phosphomonoesters,1
+Core,RNA helicase activity,1
+Core,RNA methyltransferase activity,1
+Core,RNA nuclease activity,1
+Core,S-adenosyl-L-methionine binding,1
+Core,S-adenosylmethionine-dependent methyltransferase activity,1
+Core,S-adenosylmethionine:tRNA ribosyltransferase-isomerase activity,1
+Core,S-formylglutathione hydrolase activity,1
+Core,S-methyltransferase activity,1
+Core,UDP-2%2C3-diacylglucosamine hydrolase activity,1
+Core,UDP-3-O-acyl-N-acetylglucosamine deacetylase activity,1
+Core,UDP-N-acetylglucosamine 1-carboxyvinyltransferase activity,1
+Core,UDP-N-acetylglucosamine 2-epimerase activity,1
+Core,UDP-N-acetylmuramate dehydrogenase activity,1
+Core,UDP-N-acetylmuramate-L-alanine ligase activity,1
+Core,UMP kinase activity,1
+Core,[acyl-carrier-protein] S-malonyltransferase activity,1
+Core,[acyl-carrier-protein] phosphodiesterase activity,1
+Core,[citrate (pro-3S)-lyase] ligase activity,1
+Core,[formate-C-acetyltransferase]-activating enzyme activity,1
+Core,[glutamate-ammonia-ligase] adenylyltransferase activity,1
+Core,[isocitrate dehydrogenase (NADP+)] kinase activity,1
+Core,acetate transmembrane transporter activity,1
+Core,acetolactate synthase regulator activity,1
+Core,acetyl-CoA C-acyltransferase activity,1
+Core,acetyl-CoA carboxylase activity,1
+Core,acetylglutamate kinase activity,1
+Core,acetyltransferase activity,1
+Core,acid phosphatase activity,1
+Core,acid-amino acid ligase activity,1
+Core,aconitate hydratase activity,1
+Core,acyl-CoA dehydrogenase activity,1
+Core,acyl-[acyl-carrier-protein]-UDP-N-acetylglucosamine O-acyltransferase activity,1
+Core,acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase activity,1
+Core,acylphosphatase activity,1
+Core,acyltransferase activity,1
+Core,acyltransferase activity%2C transferring groups other than amino-acyl groups,1
+Core,adenine phosphoribosyltransferase activity,1
+Core,adenosine deaminase activity,1
+Core,adenosylhomocysteine nucleosidase activity,1
+Core,adenosylmethionine decarboxylase activity,1
+Core,adenosylmethionine-8-amino-7-oxononanoate transaminase activity,1
+Core,adenylate kinase activity,1
+Core,adenylosuccinate synthase activity,1
+Core,adenylylsulfate kinase activity,1
+Core,agmatinase activity,1
+Core,alanine racemase activity,1
+Core,alcohol dehydrogenase (NAD+) activity,1
+Core,alcohol dehydrogenase (NADP+) activity,1
+Core,aldehyde-lyase activity,1
+Core,alkanesulfonate monooxygenase activity,1
+Core,alkyl hydroperoxide reductase activity,1
+Core,allantoate deiminase activity,1
+Core,allantoinase activity,1
+Core,alpha%2Calpha-phosphotrehalase activity,1
+Core,alpha%2Calpha-trehalase activity,1
+Core,alpha%2Calpha-trehalose-phosphate synthase (UDP-forming) activity,1
+Core,alpha-1%2C4-glucan glucosyltransferase (UDP-glucose donor) activity,1
+Core,alpha-1%2C4-glucosidase activity,1
+Core,alpha-amylase activity,1
+Core,alpha-ribazole phosphatase activity,1
+Core,amidophosphoribosyltransferase activity,1
+Core,amino acid transmembrane transporter activity,1
+Core,amino acid:sodium symporter activity,1
+Core,aminoacyl-tRNA deacylase activity,1
+Core,aminoacyl-tRNA ligase activity,1
+Core,aminomethyltransferase activity,1
+Core,aminopeptidase activity,1
+Core,ammonium channel activity,1
+Core,anthranilate phosphoribosyltransferase activity,1
+Core,anthranilate synthase activity,1
+Core,anti-sigma factor antagonist activity,1
+Core,antioxidant activity,1
+Core,antiporter activity,1
+Core,arginine N-succinyltransferase activity,1
+Core,arginine decarboxylase activity,1
+Core,arginine-tRNA ligase activity,1
+Core,argininosuccinate lyase activity,1
+Core,argininosuccinate synthase activity,1
+Core,arsenate reductase (glutaredoxin) activity,1
+Core,asparaginase activity,1
+Core,asparagine synthase (glutamine-hydrolyzing) activity,1
+Core,asparagine-tRNA ligase activity,1
+Core,aspartate 1-decarboxylase activity,1
+Core,aspartate carbamoyltransferase activity,1
+Core,aspartate kinase activity,1
+Core,aspartate-semialdehyde dehydrogenase activity,1
+Core,aspartate-tRNA ligase activity,1
+Core,aspartic-type endopeptidase activity,1
+Core,beta-aspartyl-peptidase activity,1
+Core,beta-lactamase activity,1
+Core,biotin carboxylase activity,1
+Core,biotin synthase activity,1
+Core,biotin--[biotin carboxyl-carrier protein] ligase activity,1
+Core,bis(5'-nucleosyl)-tetraphosphatase (symmetrical) activity,1
+Core,branched-chain-amino-acid transaminase activity,1
+Core,calcium ion binding,1
+Core,carbamate kinase activity,1
+Core,carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity,1
+Core,carbohydrate transmembrane transporter activity,1
+Core,carbon-oxygen lyase activity,1
+Core,carbonate dehydratase activity,1
+Core,carboxy-lyase activity,1
+Core,carboxyl-O-methyltransferase activity,1
+Core,carboxylic ester hydrolase activity,1
+Core,cardiolipin synthase activity,1
+Core,catalase activity,1
+Core,catalytic activity,1
+Core,cellulose synthase (UDP-forming) activity,1
+Core,channel activity,1
+Core,chloride channel activity,1
+Core,chorismate lyase activity,1
+Core,chorismate mutase activity,1
+Core,chorismate synthase activity,1
+Core,citrate (Si)-synthase activity,1
+Core,citrate (pro-3S)-lyase activity,1
+Core,citrate CoA-transferase activity,1
+Core,cobalamin 5'-phosphate synthase activity,1
+Core,cobalt ion transmembrane transporter activity,1
+Core,coenzyme A binding,1
+Core,copper ion binding,1
+Core,coproporphyrinogen oxidase activity,1
+Core,corrinoid adenosyltransferase activity,1
+Core,crossover junction DNA endonuclease activity,1
+Core,cyclase activity,1
+Core,cyclic pyranopterin monophosphate synthase activity,1
+Core,cyclic-di-GMP binding,1
+Core,cysteine synthase activity,1
+Core,cysteine-tRNA ligase activity,1
+Core,cytidine deaminase activity,1
+Core,cytidylyltransferase activity,1
+Core,cytochrome-c oxidase activity,1
+Core,cytoskeletal motor activity,1
+Core,dATP diphosphatase activity,1
+Core,dCTP deaminase activity,1
+Core,dTDP-4-amino-4%2C6-dideoxygalactose transaminase activity,1
+Core,dTDP-glucose 4%2C6-dehydratase activity,1
+Core,dTMP kinase activity,1
+Core,damaged DNA binding,1
+Core,deacetylase activity,1
+Core,deoxyribose-phosphate aldolase activity,1
+Core,dephospho-CoA kinase activity,1
+Core,diaminopimelate decarboxylase activity,1
+Core,diaminopimelate epimerase activity,1
+Core,diaminopropionate ammonia-lyase activity,1
+Core,diguanylate cyclase activity,1
+Core,dihydrofolate reductase activity,1
+Core,dihydrolipoyl dehydrogenase (NADH) activity,1
+Core,dihydrolipoyllysine-residue acetyltransferase activity,1
+Core,dihydrolipoyllysine-residue succinyltransferase activity,1
+Core,dihydroneopterin aldolase activity,1
+Core,dihydroorotase activity,1
+Core,dihydroorotate dehydrogenase activity,1
+Core,dihydropyrimidine dehydrogenase (NADP+) activity,1
+Core,dioxygenase activity,1
+Core,dipeptidase activity,1
+Core,double-stranded RNA binding,1
+Core,efflux transmembrane transporter activity,1
+Core,electron transfer activity,1
+Core,endonuclease activity,1
+Core,enterobactin transmembrane transporter activity,1
+Core,enzyme inhibitor activity,1
+Core,ethanolamine transmembrane transporter activity,1
+Core,excinuclease ABC activity,1
+Core,exodeoxyribonuclease V activity,1
+Core,exodeoxyribonuclease VII activity,1
+Core,exonuclease activity,1
+Core,fatty-acyl-CoA binding,1
+Core,ferredoxin hydrogenase activity,1
+Core,ferredoxin-NADP+ reductase activity,1
+Core,ferric iron binding,1
+Core,ferrochelatase activity,1
+Core,ferroxidase activity,1
+Core,fimbrial usher porin activity,1
+Core,flavin adenine dinucleotide binding,1
+Core,folic acid binding,1
+Core,formate dehydrogenase (NAD+) activity,1
+Core,formyltetrahydrofolate deformylase activity,1
+Core,fructose 1%2C6-bisphosphate 1-phosphatase activity,1
+Core,fructose-bisphosphate aldolase activity,1
+Core,fumarate hydratase activity,1
+Core,galactonate dehydratase activity,1
+Core,gamma-glutamylaminecyclotransferase activity,1
+Core,glucokinase activity,1
+Core,glucosamine-6-phosphate deaminase activity,1
+Core,glucose-1-phosphate adenylyltransferase activity,1
+Core,glucose-1-phosphate thymidylyltransferase activity,1
+Core,glucose-6-phosphate dehydrogenase activity,1
+Core,glucose-6-phosphate isomerase activity,1
+Core,glucuronate isomerase activity,1
+Core,glutamate decarboxylase activity,1
+Core,glutamate racemase activity,1
+Core,glutamate-1-semialdehyde 2%2C1-aminomutase activity,1
+Core,glutamate-cysteine ligase activity,1
+Core,glutamate:sodium symporter activity,1
+Core,glutaminase activity,1
+Core,glutamine synthetase activity,1
+Core,glutamine-fructose-6-phosphate transaminase (isomerizing) activity,1
+Core,glutamyl-tRNA reductase activity,1
+Core,glutathione hydrolase activity,1
+Core,glutathione specific gamma-glutamylcyclotransferase activity,1
+Core,glutathione synthase activity,1
+Core,glutathione transmembrane transporter activity,1
+Core,glutathione-disulfide reductase (NADPH) activity,1
+Core,glutathione-regulated potassium exporter activity,1
+Core,glycerol kinase activity,1
+Core,glycerol-3-phosphate O-acyltransferase activity,1
+Core,glycerol-3-phosphate dehydrogenase (quinone) activity,1
+Core,glycerol-3-phosphate dehydrogenase [NAD(P)+] activity,1
+Core,glycerone kinase activity,1
+Core,glycine dehydrogenase (decarboxylating) activity,1
+Core,glycogen phosphorylase activity,1
+Core,glycosyltransferase activity,1
+Core,guanosine-5'-triphosphate%2C3'-diphosphate diphosphatase activity,1
+Core,guanylate kinase activity,1
+Core,helicase activity,1
+Core,heme transmembrane transporter activity,1
+Core,hexosyltransferase activity,1
+Core,histidine-tRNA ligase activity,1
+Core,histidinol dehydrogenase activity,1
+Core,histidinol-phosphatase activity,1
+Core,histidinol-phosphate transaminase activity,1
+Core,holo-[acyl-carrier-protein] synthase activity,1
+Core,holo-citrate lyase synthase activity,1
+Core,homoserine O-succinyltransferase activity,1
+Core,homoserine kinase activity,1
+Core,hydrolase activity,1
+Core,hydrolase activity%2C acting on acid anhydrides,1
+Core,hydrolase activity%2C acting on acid anhydrides%2C in phosphorus-containing anhydrides,1
+Core,hydrolase activity%2C acting on carbon-nitrogen (but not peptide) bonds,1
+Core,hydrolase activity%2C acting on carbon-nitrogen (but not peptide) bonds%2C in linear amides,1
+Core,hydrolase activity%2C acting on ester bonds,1
+Core,hydrolase activity%2C acting on glycosyl bonds,1
+Core,hydrolase activity%2C hydrolyzing N-glycosyl compounds,1
+Core,hydrolase activity%2C hydrolyzing O-glycosyl compounds,1
+Core,hydroxyacylglutathione hydrolase activity,1
+Core,hydroxyethylthiazole kinase activity,1
+Core,hydroxymethyl-%2C formyl- and related transferase activity,1
+Core,hydroxymethylbilane synthase activity,1
+Core,hydroxymethylpyrimidine kinase activity,1
+Core,hydroxypyruvate reductase [NAD(P)H] activity,1
+Core,identical protein binding,1
+Core,imidazoleglycerol-phosphate synthase activity,1
+Core,indole-3-glycerol-phosphate synthase activity,1
+Core,inorganic diphosphate phosphatase activity,1
+Core,inositol monophosphate 1-phosphatase activity,1
+Core,iron ion binding,1
+Core,iron-sulfur cluster binding,1
+Core,isochorismate synthase activity,1
+Core,isocitrate lyase activity,1
+Core,isopentenyl-diphosphate delta-isomerase activity,1
+Core,ketol-acid reductoisomerase activity,1
+Core,kinase activity,1
+Core,lactate transmembrane transporter activity,1
+Core,leucyl-tRNA--protein transferase activity,1
+Core,limit dextrin alpha-1%2C6-maltotetraose-hydrolase activity,1
+Core,lipase activity,1
+Core,lipid kinase activity,1
+Core,lipid-A-disaccharide synthase activity,1
+Core,lipoate synthase activity,1
+Core,lipopolysaccharide N-acetylmannosaminouronosyltransferase activity,1
+Core,lipopolysaccharide heptosyltransferase activity,1
+Core,lipopolysaccharide transmembrane transporter activity,1
+Core,lipoyl(octanoyl) transferase activity,1
+Core,lyase activity,1
+Core,lysine-tRNA ligase activity,1
+Core,lysophospholipase activity,1
+Core,magnesium ion binding,1
+Core,malate synthase activity,1
+Core,manganese ion binding,1
+Core,mannitol-1-phosphate 5-dehydrogenase activity,1
+Core,mannonate dehydratase activity,1
+Core,mannose-6-phosphate isomerase activity,1
+Core,mannosyltransferase activity,1
+Core,membrane insertase activity,1
+Core,metal cation:proton antiporter activity,1
+Core,metal ion binding,1
+Core,metalloaminopeptidase activity,1
+Core,metallocarboxypeptidase activity,1
+Core,metallochaperone activity,1
+Core,metalloendopeptidase activity,1
+Core,metallopeptidase activity,1
+Core,methionine adenosyltransferase activity,1
+Core,methionyl-tRNA formyltransferase activity,1
+Core,methylenetetrahydrofolate dehydrogenase (NADP+) activity,1
+Core,methylenetetrahydrofolate reductase (NAD(P)H) activity,1
+Core,methylglyoxal synthase activity,1
+Core,methylmalonyl-CoA mutase activity,1
+Core,methyltransferase activity,1
+Core,mismatch base pair DNA N-glycosylase activity,1
+Core,molybdate ion transmembrane transporter activity,1
+Core,monoatomic cation transmembrane transporter activity,1
+Core,monooxygenase activity,1
+Core,nickel cation transmembrane transporter activity,1
+Core,nicotinamide-nucleotide adenylyltransferase activity,1
+Core,nicotinate phosphoribosyltransferase activity,1
+Core,nicotinate-nucleotide diphosphorylase (carboxylating) activity,1
+Core,nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase activity,1
+Core,nitrate reductase activity,1
+Core,nitrate transmembrane transporter activity,1
+Core,nitric oxide dioxygenase NAD(P)H activity,1
+Core,nuclease activity,1
+Core,nucleic acid binding,1
+Core,nucleoside diphosphate kinase activity,1
+Core,nucleoside triphosphate diphosphatase activity,1
+Core,nucleotidase activity,1
+Core,nucleotide binding,1
+Core,nucleotidyltransferase activity,1
+Core,ornithine carbamoyltransferase activity,1
+Core,orotate phosphoribosyltransferase activity,1
+Core,orotidine-5'-phosphate decarboxylase activity,1
+Core,oxidized pyrimidine nucleobase lesion DNA N-glycosylase activity,1
+Core,oxidoreductase activity,1
+Core,oxidoreductase activity%2C acting on NAD(P)H,1
+Core,oxidoreductase activity%2C acting on a sulfur group of donors,1
+Core,oxidoreductase activity%2C acting on diphenols and related substances as donors%2C oxygen as acceptor,1
+Core,oxidoreductase activity%2C acting on iron-sulfur proteins as donors%2C NAD or NADP as acceptor,1
+Core,oxidoreductase activity%2C acting on metal ions,1
+Core,oxidoreductase activity%2C acting on other nitrogenous compounds as donors,1
+Core,oxidoreductase activity%2C acting on paired donors%2C with incorporation or reduction of molecular oxygen,1
+Core,oxidoreductase activity%2C acting on paired donors%2C with incorporation or reduction of molecular oxygen%2C NAD(P)H as one donor%2C and incorporation of one atom of oxygen,1
+Core,oxidoreductase activity%2C acting on paired donors%2C with incorporation or reduction of molecular oxygen%2C with 2-oxoglutarate as one donor%2C and the other dehydrogenated,1
+Core,oxidoreductase activity%2C acting on the CH-NH2 group of donors%2C NAD or NADP as acceptor,1
+Core,oxidoreductase activity%2C acting on the CH-OH group of donors%2C NAD or NADP as acceptor,1
+Core,oxidoreductase activity%2C acting on the CH-OH group of donors%2C quinone or similar compound as acceptor,1
+Core,oxidoreductase activity%2C acting on the aldehyde or oxo group of donors%2C NAD or NADP as acceptor,1
+Core,oxoglutarate dehydrogenase (succinyl-transferring) activity,1
+Core,palmitoleoyl [acyl-carrier-protein]-dependent acyltransferase activity,1
+Core,pantetheine-phosphate adenylyltransferase activity,1
+Core,pantoate-beta-alanine ligase activity,1
+Core,pantothenate kinase activity,1
+Core,pectinesterase activity,1
+Core,penicillin binding,1
+Core,pentosyltransferase activity,1
+Core,peptidase activity,1
+Core,peptide deformylase activity,1
+Core,peptide transmembrane transporter activity,1
+Core,peptide-methionine (R)-S-oxide reductase activity,1
+Core,peptide-methionine (S)-S-oxide reductase activity,1
+Core,peptidoglycan binding,1
+Core,peptidoglycan lytic transglycosylase activity,1
+Core,peptidyl-prolyl cis-trans isomerase activity,1
+Core,peptidyl-tRNA hydrolase activity,1
+Core,peroxidase activity,1
+Core,peroxiredoxin activity,1
+Core,phosphatase activity,1
+Core,phosphate acetyltransferase activity,1
+Core,phosphate ion binding,1
+Core,phosphate:acyl-[acyl carrier protein] acyltransferase activity,1
+Core,phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity,1
+Core,phosphatidylglycerophosphatase activity,1
+Core,phosphatidylserine decarboxylase activity,1
+Core,phospho-N-acetylmuramoyl-pentapeptide-transferase activity,1
+Core,phosphoadenylyl-sulfate reductase (thioredoxin) activity,1
+Core,phosphoenolpyruvate carboxykinase (ATP) activity,1
+Core,phosphoenolpyruvate carboxylase activity,1
+Core,phosphoenolpyruvate-glycerone phosphotransferase activity,1
+Core,phosphoenolpyruvate-protein phosphotransferase activity,1
+Core,phosphoglucomutase activity,1
+Core,phosphogluconate dehydratase activity,1
+Core,phosphogluconate dehydrogenase (decarboxylating) activity,1
+Core,phosphoglycerate mutase activity,1
+Core,phosphoglycolate phosphatase activity,1
+Core,phospholipase activity,1
+Core,phosphopantothenate--cysteine ligase activity,1
+Core,phosphopentomutase activity,1
+Core,phosphorelay sensor kinase activity,1
+Core,phosphoribosyl-AMP cyclohydrolase activity,1
+Core,phosphoribosylamine-glycine ligase activity,1
+Core,phosphoribosylaminoimidazole carboxylase activity,1
+Core,phosphoribosylaminoimidazolesuccinocarboxamide synthase activity,1
+Core,phosphoribosylformylglycinamidine cyclo-ligase activity,1
+Core,phosphoribosylformylglycinamidine synthase activity,1
+Core,phosphoribosylglycinamide formyltransferase activity,1
+Core,phosphoric diester hydrolase activity,1
+Core,phosphotransferase activity%2C alcohol group as acceptor,1
+Core,phosphotransferase activity%2C phosphate group as acceptor,1
+Core,polyamine binding,1
+Core,polyphosphate kinase activity,1
+Core,porin activity,1
+Core,porphobilinogen synthase activity,1
+Core,potassium ion transmembrane transporter activity,1
+Core,preQ1 synthase activity,1
+Core,prenyltransferase activity,1
+Core,proline-tRNA ligase activity,1
+Core,proline:sodium symporter activity,1
+Core,propionate-CoA ligase activity,1
+Core,protein binding,1
+Core,protein histidine kinase activity,1
+Core,protein histidine phosphatase activity,1
+Core,protein serine/threonine kinase activity,1
+Core,protein transmembrane transporter activity,1
+Core,protein-L-isoaspartate (D-aspartate) O-methyltransferase activity,1
+Core,protein-N(PI)-phosphohistidine-fructose phosphotransferase system transporter activity,1
+Core,protein-N(PI)-phosphohistidine-sugar phosphotransferase activity,1
+Core,protein-disulfide reductase activity,1
+Core,protein-folding chaperone binding,1
+Core,protein-macromolecule adaptor activity,1
+Core,protein-transporting ATPase activity,1
+Core,protoheme IX farnesyltransferase activity,1
+Core,proton transmembrane transporter activity,1
+Core,proton-translocating NAD(P)+ transhydrogenase activity,1
+Core,proton-transporting ATP synthase activity%2C rotational mechanism,1
+Core,pseudouridine synthase activity,1
+Core,purine-nucleoside phosphorylase activity,1
+Core,pyridoxal kinase activity,1
+Core,pyridoxal phosphate binding,1
+Core,pyridoxamine phosphate oxidase activity,1
+Core,pyridoxine 5'-phosphate synthase activity,1
+Core,pyrroline-5-carboxylate reductase activity,1
+Core,pyruvate dehydrogenase activity,1
+Core,pyruvate kinase activity,1
+Core,quinolinate synthetase A activity,1
+Core,quinone binding,1
+Core,rRNA (adenine-N6%2CN6-)-dimethyltransferase activity,1
+Core,rRNA (adenine-N6-)-methyltransferase activity,1
+Core,rRNA (cytosine) methyltransferase activity,1
+Core,rRNA (guanine-N2-)-methyltransferase activity,1
+Core,rRNA (uridine) methyltransferase activity,1
+Core,rRNA methyltransferase activity,1
+Core,racemase and epimerase activity,1
+Core,racemase and epimerase activity%2C acting on amino acids and derivatives,1
+Core,racemase and epimerase activity%2C acting on carbohydrates and derivatives,1
+Core,rhamnose transmembrane transporter activity,1
+Core,rhamnulokinase activity,1
+Core,riboflavin synthase activity,1
+Core,ribonuclease inhibitor activity,1
+Core,ribonucleoside-diphosphate reductase activity%2C thioredoxin disulfide as acceptor,1
+Core,ribonucleoside-triphosphate reductase (thioredoxin) activity,1
+Core,ribose 1%2C5-bisphosphate phosphokinase activity,1
+Core,ribose-5-phosphate isomerase activity,1
+Core,ribosome binding,1
+Core,selenide%2C water dikinase activity,1
+Core,sequence-specific DNA binding,1
+Core,serine O-acetyltransferase activity,1
+Core,serine-type D-Ala-D-Ala carboxypeptidase activity,1
+Core,serine-type carboxypeptidase activity,1
+Core,serine-type endopeptidase activity,1
+Core,serine-type endopeptidase inhibitor activity,1
+Core,serine-type peptidase activity,1
+Core,shikimate 3-dehydrogenase (NADP+) activity,1
+Core,sialic acid transmembrane transporter activity,1
+Core,siderophore uptake transmembrane transporter activity,1
+Core,sigma factor antagonist activity,1
+Core,single-stranded DNA binding,1
+Core,site-specific recombinase activity,1
+Core,small GTPase binding,1
+Core,sodium ion transmembrane transporter activity,1
+Core,sodium:phosphate symporter activity,1
+Core,sodium:proton antiporter activity,1
+Core,structural constituent of ribosome,1
+Core,structural molecule activity,1
+Core,succinate dehydrogenase activity,1
+Core,succinyl-diaminopimelate desuccinylase activity,1
+Core,sulfate adenylyltransferase (ATP) activity,1
+Core,sulfate transmembrane transporter activity,1
+Core,sulfite reductase (NADPH) activity,1
+Core,sulfur carrier activity,1
+Core,sulfuric ester hydrolase activity,1
+Core,sulfurtransferase activity,1
+Core,superoxide dismutase activity,1
+Core,symporter activity,1
+Core,tRNA (5-methylaminomethyl-2-thiouridylate)(34)-methyltransferase activity,1
+Core,tRNA (guanine(18)-2'-O)-methyltransferase activity,1
+Core,tRNA (guanine(37)-N1)-methyltransferase activity,1
+Core,tRNA (guanine(46)-N7)-methyltransferase activity,1
+Core,tRNA (uracil(54)-C5)-methyltransferase activity%2C S-adenosyl methionine-dependent,1
+Core,tRNA 2-selenouridine synthase activity,1
+Core,tRNA binding,1
+Core,tRNA dihydrouridine synthase activity,1
+Core,tRNA dimethylallyltransferase activity,1
+Core,tRNA-guanosine(34) queuine transglycosylase activity,1
+Core,tRNA-specific adenosine deaminase activity,1
+Core,tRNA-uracil-4 sulfurtransferase activity,1
+Core,tetraacyldisaccharide 4'-kinase activity,1
+Core,tetrahydrofolylpolyglutamate synthase activity,1
+Core,thiamine binding,1
+Core,thiamine kinase activity,1
+Core,thiamine-phosphate diphosphorylase activity,1
+Core,thiamine-phosphate kinase activity,1
+Core,thiolester hydrolase activity,1
+Core,thioredoxin peroxidase activity,1
+Core,thioredoxin-disulfide reductase (NADPH) activity,1
+Core,thiosulfate-cyanide sulfurtransferase activity,1
+Core,threonine deaminase activity,1
+Core,threonine synthase activity,1
+Core,threonine-tRNA ligase activity,1
+Core,threonine-type endopeptidase activity,1
+Core,thymidine phosphorylase activity,1
+Core,thymidylate synthase activity,1
+Core,toxin transmembrane transporter activity,1
+Core,trans-aconitate 2-methyltransferase activity,1
+Core,transaldolase activity,1
+Core,transcription factor binding,1
+Core,transferase activity,1
+Core,transferase activity%2C transferring alkyl or aryl (other than methyl) groups,1
+Core,transferase activity%2C transferring phosphorus-containing groups,1
+Core,transferase activity%2C transferring sulphur-containing groups,1
+Core,transketolase activity,1
+Core,translation elongation factor activity,1
+Core,translation factor activity%2C RNA binding,1
+Core,translation initiation factor activity,1
+Core,translation regulator activity,1
+Core,translation release factor activity,1
+Core,transmembrane transporter activity,1
+Core,transporter activity,1
+Core,transposase activity,1
+Core,trehalose-phosphatase activity,1
+Core,triose-phosphate isomerase activity,1
+Core,tryptophan synthase activity,1
+Core,tryptophanase activity,1
+Core,ubiquitin-like modifier activating enzyme activity,1
+Core,undecaprenyl-diphosphatase activity,1
+Core,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase activity,1
+Core,unfolded protein binding,1
+Core,uracil DNA N-glycosylase activity,1
+Core,uracil phosphoribosyltransferase activity,1
+Core,ureidoglycine aminohydrolase activity,1
+Core,uridine kinase activity,1
+Core,uroporphyrin-III C-methyltransferase activity,1
+Core,uroporphyrinogen decarboxylase activity,1
+Core,uroporphyrinogen-III synthase activity,1
+Core,voltage-gated chloride channel activity,1
+Core,water channel activity,1
+Core,xenobiotic transmembrane transporter activity,1
+Core,zinc ion binding,1
+Core,zinc ion transmembrane transporter activity,1
+Singleton,0000150,1
+Singleton,0000166,1
+Singleton,0000287,1
+Singleton,0003676,1
+Singleton,0003677,1
+Singleton,0003678,1
+Singleton,0003682,1
+Singleton,0003697,1
+Singleton,0003700,1
+Singleton,0003714,1
+Singleton,0003723,1
+Singleton,0003729,1
+Singleton,0003747,1
+Singleton,0003824,1
+Singleton,0003886,1
+Singleton,0003964,1
+Singleton,0004190,1
+Singleton,0004252,1
+Singleton,0004386,1
+Singleton,0004497,1
+Singleton,0004514,1
+Singleton,0004518,1
+Singleton,0004519,1
+Singleton,0004527,1
+Singleton,0004553,1
+Singleton,0004803,1
+Singleton,0005198,1
+Singleton,0005506,1
+Singleton,0005515,1
+Singleton,0005524,1
+Singleton,0008168,1
+Singleton,0008170,1
+Singleton,0008171,1
+Singleton,0008233,1
+Singleton,0008237,1
+Singleton,0008253,1
+Singleton,0008270,1
+Singleton,0008484,1
+Singleton,0008493,1
+Singleton,0008641,1
+Singleton,0008755,1
+Singleton,0008982,1
+Singleton,0009007,1
+Singleton,0009009,1
+Singleton,0009035,1
+Singleton,0009055,1
+Singleton,0009975,1
+Singleton,0015267,1
+Singleton,0015288,1
+Singleton,0015562,1
+Singleton,0015666,1
+Singleton,0016034,1
+Singleton,0016152,1
+Singleton,0016301,1
+Singleton,0016491,1
+Singleton,0016530,1
+Singleton,0016616,1
+Singleton,0016746,1
+Singleton,0016747,1
+Singleton,0016757,1
+Singleton,0016773,1
+Singleton,0016779,1
+Singleton,0016787,1
+Singleton,0016790,1
+Singleton,0016817,1
+Singleton,0016829,1
+Singleton,0016887,1
+Singleton,0016987,1
+Singleton,0019200,1
+Singleton,0020037,1
+Singleton,0022857,1
+Singleton,0030170,1
+Singleton,0030246,1
+Singleton,0034040,1
+Singleton,0042578,1
+Singleton,0042626,1
+Singleton,0042803,1
+Singleton,0042834,1
+Singleton,0043138,1
+Singleton,0043565,1
+Singleton,0045340,1
+Singleton,0046872,1
+Singleton,0047922,1
+Singleton,0050097,1
+Singleton,0050660,1
+Singleton,0050661,1
+Singleton,0051536,1
+Singleton,0051920,1
+Singleton,0070403,1
+Singleton,0071949,1
+Singleton,0090729,1
+Singleton,0097351,1
+Singleton,0097367,1
+Singleton,0140297,1
+Singleton,0140359,1
+Singleton,1904047,1
+Singleton,1904091,1
+Singleton,1990814,1
+Singleton,ATP binding,1
+Singleton,ATP hydrolysis activity,1
+Singleton,DNA binding,1
+Singleton,DNA helicase activity,1
+Singleton,DNA strand exchange activity,1
+Singleton,DNA-binding transcription factor activity,1
+Singleton,DNA/DNA annealing activity,1
+Singleton,FAD binding,1
+Singleton,IEA,1
+Singleton,"IEA,3'-5' DNA helicase activity",1
+Singleton,"IEA,5'-nucleotidase activity",1
+Singleton,"IEA,ABC-type transporter activity",1
+Singleton,"IEA,ATP binding",1
+Singleton,"IEA,ATP hydrolysis activity",1
+Singleton,"IEA,ATPase-coupled lipid transmembrane transporter activity",1
+Singleton,"IEA,ATPase-coupled transmembrane transporter activity",1
+Singleton,"IEA,DNA (cytosine-5-)-methyltransferase activity",1
+Singleton,"IEA,DNA binding",1
+Singleton,"IEA,DNA-binding transcription factor activity",1
+Singleton,"IEA,DNA-binding transcription factor binding",1
+Singleton,"IEA,N-methyltransferase activity",1
+Singleton,"IEA,NAD+ binding",1
+Singleton,"IEA,NADP binding",1
+Singleton,"IEA,S-adenosyl-L-methionine binding",1
+Singleton,"IEA,carbohydrate binding",1
+Singleton,"IEA,carbohydrate kinase activity",1
+Singleton,"IEA,catalytic activity",1
+Singleton,"IEA,cyclase activity",1
+Singleton,"IEA,electron transfer activity",1
+Singleton,"IEA,endonuclease activity",1
+Singleton,"IEA,flavin adenine dinucleotide binding",1
+Singleton,"IEA,helicase activity",1
+Singleton,"IEA,heme binding",1
+Singleton,"IEA,hydrolase activity",1
+Singleton,"IEA,iron-sulfur cluster binding",1
+Singleton,"IEA,kinase activity",1
+Singleton,"IEA,lyase activity",1
+Singleton,"IEA,mercury ion binding",1
+Singleton,"IEA,metal ion binding",1
+Singleton,"IEA,metallopeptidase activity",1
+Singleton,"IEA,methyltransferase activity",1
+Singleton,"IEA,nucleotidyltransferase activity",1
+Singleton,"IEA,oxidoreductase activity",1
+Singleton,"IEA,oxidoreductase activity%2C acting on the CH-OH group of donors%2C NAD or NADP as acceptor",1
+Singleton,"IEA,peptidoglycan binding",1
+Singleton,"IEA,phosphoric ester hydrolase activity",1
+Singleton,"IEA,phosphotransferase activity%2C alcohol group as acceptor",1
+Singleton,"IEA,protein homodimerization activity",1
+Singleton,"IEA,restriction endodeoxyribonuclease activity",1
+Singleton,"IEA,sequence-specific DNA binding",1
+Singleton,"IEA,sigma factor activity",1
+Singleton,"IEA,site-specific DNA-methyltransferase (adenine-specific) activity",1
+Singleton,"IEA,thiolester hydrolase activity",1
+Singleton,"IEA,toxin sequestering activity",1
+Singleton,"IEA,transcription corepressor activity",1
+Singleton,"IEA,transposase activity",1
+Singleton,"IEA,type I site-specific deoxyribonuclease activity",1
+Singleton,"IEA,zinc ion binding",1
+Singleton,O antigen polymerase activity,1
+Singleton,O-methyltransferase activity,1
+Singleton,RNA binding,1
+Singleton,RNA-directed DNA polymerase activity,1
+Singleton,acyltransferase activity,1
+Singleton,acyltransferase activity%2C transferring groups other than amino-acyl groups,1
+Singleton,aspartic-type endopeptidase activity,1
+Singleton,carbohydrate derivative binding,1
+Singleton,carbohydrate kinase activity,1
+Singleton,catalytic activity,1
+Singleton,channel activity,1
+Singleton,chromatin binding,1
+Singleton,efflux transmembrane transporter activity,1
+Singleton,endonuclease activity,1
+Singleton,exonuclease activity,1
+Singleton,gentisate 1%2C2-dioxygenase activity,1
+Singleton,glycosyltransferase activity,1
+Singleton,helicase activity,1
+Singleton,hydrolase activity,1
+Singleton,hydrolase activity%2C acting on acid anhydrides,1
+Singleton,hydrolase activity%2C hydrolyzing O-glycosyl compounds,1
+Singleton,iron ion binding,1
+Singleton,mRNA binding,1
+Singleton,magnesium ion binding,1
+Singleton,maleylacetoacetate isomerase activity,1
+Singleton,mercury (II) reductase (NADP+) activity,1
+Singleton,mercury ion binding,1
+Singleton,metal ion binding,1
+Singleton,metallochaperone activity,1
+Singleton,methylaspartate mutase activity,1
+Singleton,methyltransferase activity,1
+Singleton,monooxygenase activity,1
+Singleton,nicotinate-nucleotide diphosphorylase (carboxylating) activity,1
+Singleton,non-ribosomal peptide synthetase activity,1
+Singleton,nuclease activity,1
+Singleton,nucleic acid binding,1
+Singleton,nucleotide binding,1
+Singleton,oxidoreductase activity,1
+Singleton,peptidase activity,1
+Singleton,peroxiredoxin activity,1
+Singleton,phosphotransferase activity%2C alcohol group as acceptor,1
+Singleton,porin activity,1
+Singleton,protein binding,1
+Singleton,protein-N(PI)-phosphohistidine-sugar phosphotransferase activity,1
+Singleton,pyridoxal phosphate binding,1
+Singleton,restriction endodeoxyribonuclease activity,1
+Singleton,serine-type endopeptidase activity,1
+Singleton,single-stranded DNA binding,1
+Singleton,site-specific DNA-methyltransferase (adenine-specific) activity,1
+Singleton,site-specific recombinase activity,1
+Singleton,structural molecule activity,1
+Singleton,sulfuric ester hydrolase activity,1
+Singleton,tetracycline transmembrane transporter activity,1
+Singleton,toxin activity,1
+Singleton,translation release factor activity,1
+Singleton,transmembrane transporter activity,1
+Singleton,transposase activity,1
+Singleton,ubiquitin-like modifier activating enzyme activity,1
+Singleton,zinc ion binding,1

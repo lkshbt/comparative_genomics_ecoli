@@ -1,0 +1,8 @@
+cluster,gene,product,go_function,ontology_term
+GCF_000833145.1|WP_000161786.1,,glycosyltransferase family 4 protein,glycosyltransferase activity|0016757||IEA,"GO:0006486,GO:0016757"
+GCF_000833145.1|WP_000323726.1,vioB,dTDP-4-amino-4%2C6-dideoxy-D-glucose acetyltransferase VioB,,
+GCF_000833145.1|WP_000340445.1,,sugar polymerase,,
+GCF_000833145.1|WP_000690820.1,,glycosyl transferase,,
+GCF_000833145.1|WP_000773160.1,,carbohydrate-binding protein,"hydrolase activity%2C hydrolyzing O-glycosyl compounds|0004553||IEA,carbohydrate binding|0030246||IEA","GO:0005975,GO:0004553,GO:0030246,GO:0005576"
+GCF_000833145.1|WP_001230642.1,wzy,O7 family O-antigen polymerase,,
+GCF_000833145.1|WP_226347323.1,,retron St85 family RNA-directed DNA polymerase,,"GO:0001171,GO:0051607"

@@ -1,0 +1,21 @@
+pair,functional_category,cluster,gene,product,go_function,ontology_term
+RM9387 + CI5,Surface/Adhesion,GCF_000971615.1|WP_000119441.1,,Hcp family type VI secretion system effector,,GO:0033103
+RM9387 + CI5,Surface/Adhesion,GCF_000971615.1|WP_000183810.1,,type VI secretion system accessory protein TagJ,,
+RM9387 + CI5,Surface/Adhesion,GCF_000971615.1|WP_000371477.1,tssF,type VI secretion system baseplate subunit TssF,,GO:0033103
+RM9387 + CI5,Surface/Adhesion,GCF_000971615.1|WP_000450225.1,,ImpA family type VI secretion system protein,,
+RM9387 + CI5,Surface/Adhesion,GCF_000971615.1|WP_000533466.1,,type VI secretion system amidase effector protein Tae4,,
+RM9387 + CI5,Surface/Adhesion,GCF_000971615.1|WP_000695774.1,pefC,PefC/AfrB family outer membrane usher protein,,
+RM9387 + CI5,Surface/Adhesion,GCF_000971615.1|WP_000733565.1,,fimbrial protein,,"GO:0007155,GO:0009289"
+RM9387 + CI5,Surface/Adhesion,GCF_000971615.1|WP_000804010.1,tagK,type VI secretion system-associated protein TagK,,
+RM9387 + CI5,Surface/Adhesion,GCF_000971615.1|WP_000996600.1,,fimbrial protein,,"GO:0007155,GO:0009289"
+RM9387 + CI5,Surface/Adhesion,GCF_000971615.1|WP_001150579.1,,HlyD family secretion protein,transmembrane transporter activity|0022857||IEA,"GO:0055085,GO:0022857,GO:0016020"
+RM9387 + CI5,Surface/Adhesion,GCF_000971615.1|WP_001276642.1,tssE,type VI secretion system baseplate subunit TssE,,GO:0033103
+RM9387 + CI5,Surface/Adhesion,GCF_000971615.1|WP_001402122.1,tssJ,type VI secretion system lipoprotein TssJ,,GO:0033103
+RM9387 + CI5,Surface/Adhesion,GCF_000971615.1|WP_039264360.1,tssG,type VI secretion system baseplate subunit TssG,,GO:0033103
+RM9387 + CI5,Surface/Adhesion,GCF_000971615.1|WP_046201413.1,,Ail/Lom family outer membrane beta-barrel protein,,GO:0044384
+C41(DE3) + BL21,Carbohydrate metabolism,GCF_000833145.1|WP_000161786.1,,glycosyltransferase family 4 protein,glycosyltransferase activity|0016757||IEA,"GO:0006486,GO:0016757"
+C41(DE3) + BL21,Carbohydrate metabolism,GCF_000833145.1|WP_000323726.1,vioB,dTDP-4-amino-4%2C6-dideoxy-D-glucose acetyltransferase VioB,,
+C41(DE3) + BL21,Carbohydrate metabolism,GCF_000833145.1|WP_000340445.1,,sugar polymerase,,
+C41(DE3) + BL21,Carbohydrate metabolism,GCF_000833145.1|WP_000690820.1,,glycosyl transferase,,
+C41(DE3) + BL21,Carbohydrate metabolism,GCF_000833145.1|WP_000773160.1,,carbohydrate-binding protein,"hydrolase activity%2C hydrolyzing O-glycosyl compounds|0004553||IEA,carbohydrate binding|0030246||IEA","GO:0005975,GO:0004553,GO:0030246,GO:0005576"
+C41(DE3) + BL21,Carbohydrate metabolism,GCF_000833145.1|WP_001230642.1,wzy,O7 family O-antigen polymerase,,

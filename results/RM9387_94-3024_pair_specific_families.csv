@@ -1,0 +1,128 @@
+cluster,genomes_present,family_type,gene,product,go_function,ontology_term
+GCF_000801165.1|WP_000125990.1,2,Accessory,,head-tail connector protein,,GO:0016032
+GCF_000801165.1|WP_000194574.1,2,Accessory,,hypothetical protein,,
+GCF_000801165.1|WP_000264909.1,2,Accessory,,hypothetical protein,,
+GCF_000801165.1|WP_000573391.1,2,Accessory,,HK97-gp10 family putative phage morphogenesis protein,,
+GCF_000801165.1|WP_000829192.1,2,Accessory,,HNH endonuclease,"nucleic acid binding|0003676||IEA,endonuclease activity|0004519||IEA,zinc ion binding|0008270||IEA","GO:0003676,GO:0004519,GO:0008270"
+GCF_000801165.1|WP_001290230.1,2,Accessory,,DUF826 domain-containing protein,,
+GCF_000801165.1|WP_028985347.1,2,Accessory,,transcriptional regulator,,
+GCF_000801165.1|WP_032285070.1,2,Accessory,,hypothetical protein,,
+GCF_000801165.1|WP_039264405.1,2,Accessory,,phage tail tape measure protein,structural molecule activity|0005198||IEA,"GO:0016032,GO:0005198,GO:0044423"
+GCF_000801165.1|WP_040116939.1,2,Accessory,,PapB/FocB family fimbrial expression transcriptional regulator,,GO:0006355
+GCF_000801165.1|WP_040116972.1,2,Accessory,,LPD7 domain-containing protein,,
+GCF_000801165.1|WP_040116981.1,2,Accessory,,thermonuclease family protein,,
+GCF_000801165.1|WP_040116983.1,2,Accessory,,hypothetical protein,,
+GCF_000801165.1|WP_040116984.1,2,Accessory,trbA,IncI1-type conjugal transfer protein TrbA,,
+GCF_000801165.1|WP_040116986.1,2,Accessory,trbC,F-type conjugative transfer protein TrbC,,
+GCF_000801165.1|WP_159454915.1,2,Accessory,,YadA-like family protein,,
+GCF_000801185.2|WP_000030199.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_000042395.1,2,Accessory,,helix-turn-helix domain-containing protein,DNA binding|0003677||IEA,GO:0003677
+GCF_000801185.2|WP_000064387.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_000133383.1,2,Accessory,gp17,tail completion protein gp17,,
+GCF_000801185.2|WP_000157095.1,2,Accessory,,molybdopterin-guanine dinucleotide biosynthesis protein MobC,,
+GCF_000801185.2|WP_000172990.1,2,Accessory,,phage major capsid protein,structural molecule activity|0005198||IEA,"GO:0019068,GO:0005198,GO:0044423"
+GCF_000801185.2|WP_000182306.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_000184775.1,2,Accessory,,cytidylyltransferase domain-containing protein,,
+GCF_000801185.2|WP_000205117.1,2,Accessory,wzy,O104 family O-antigen polymerase,,
+GCF_000801185.2|WP_000211993.1,2,Accessory,,ORF6N domain-containing protein,,
+GCF_000801185.2|WP_000216448.1,2,Accessory,,prophage tail fiber N-terminal domain-containing protein,,
+GCF_000801185.2|WP_000242979.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_000286857.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_000342737.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_000343102.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_000357163.1,2,Accessory,,sugar ABC transporter permease,"ATPase-coupled transmembrane transporter activity|0042626||IEA,ABC-type transporter activity|0140359||IEA","GO:0008643,GO:0042626,GO:0140359,GO:0016020,GO:0043190"
+GCF_000801185.2|WP_000380400.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_000539684.1,2,Accessory,pilM,type IV pilus biogenesis protein PilM,,
+GCF_000801185.2|WP_000581608.1,2,Accessory,,TrmB family transcriptional regulator,"DNA binding|0003677||IEA,DNA-binding transcription factor activity|0003700||IEA,transcription regulator activity|0140110||IEA","GO:0006355,GO:0003677,GO:0003700,GO:0140110"
+GCF_000801185.2|WP_000582552.1,2,Accessory,,amidohydrolase family protein,"hydrolase activity|0016787||IEA,metal ion binding|0046872||IEA","GO:0016787,GO:0046872"
+GCF_000801185.2|WP_000609151.1,2,Accessory,dqlB,DinQ-like type I toxin DqlB,,
+GCF_000801185.2|WP_000701093.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_000710934.1,2,Accessory,,phage tail assembly chaperone,,
+GCF_000801185.2|WP_000723247.1,2,Accessory,neuC,UDP-N-acetylglucosamine 2-epimerase,UDP-N-acetylglucosamine 2-epimerase activity|0008761||IEA,"GO:0006047,GO:0008761"
+GCF_000801185.2|WP_000727834.1,2,Accessory,,acetyltransferase,,
+GCF_000801185.2|WP_000735655.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_000738072.1,2,Accessory,,Shiga toxin Stx2a subunit B,,
+GCF_000801185.2|WP_000762580.1,2,Accessory,,colicin E1 family microcin immunity protein,toxic substance binding|0015643||IEA,"GO:0030153,GO:0015643"
+GCF_000801185.2|WP_000774037.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_000777726.1,2,Accessory,,maltose ABC transporter substrate-binding protein,,
+GCF_000801185.2|WP_000783992.1,2,Accessory,,glycosyltransferase family 52,,
+GCF_000801185.2|WP_000788411.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_000789769.1,2,Accessory,,glycosyltransferase,glycosyltransferase activity|0016757||IEA,"GO:0006486,GO:0016757"
+GCF_000801185.2|WP_000813639.1,2,Accessory,ccdA,type II toxin-antitoxin system antitoxin CcdA,,
+GCF_000801185.2|WP_000817799.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_000833612.1,2,Accessory,,helicase RepA family protein,,
+GCF_000801185.2|WP_000848138.1,2,Accessory,,type IV secretory system conjugative DNA transfer family protein,,
+GCF_000801185.2|WP_000912970.1,2,Accessory,subA,subtilase AB5 cytotoxin subunit A,,
+GCF_000801185.2|WP_000946266.1,2,Accessory,traX,conjugal transfer protein TraX,,
+GCF_000801185.2|WP_000958387.1,2,Accessory,,terminase small subunit,,
+GCF_000801185.2|WP_000987022.1,2,Accessory,traQ,conjugal transfer protein TraQ,,
+GCF_000801185.2|WP_000997724.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_001020660.1,2,Accessory,,phage head closure protein,structural molecule activity|0005198||IEA,"GO:0019068,GO:0005198,GO:0044423"
+GCF_000801185.2|WP_001024758.1,2,Accessory,,conjugal transfer protein,,
+GCF_000801185.2|WP_001034031.1,2,Accessory,neuB,N-acetylneuraminate synthase,catalytic activity|0003824||IEA,"GO:0016051,GO:0003824"
+GCF_000801185.2|WP_001056369.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_001056745.1,2,Accessory,wzx,O104 family O-antigen flippase,,
+GCF_000801185.2|WP_001063099.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_001081199.1,2,Accessory,,DotD/TraH family lipoprotein,,
+GCF_000801185.2|WP_001096087.1,2,Accessory,,carbohydrate ABC transporter permease,"ATPase-coupled transmembrane transporter activity|0042626||IEA,ABC-type transporter activity|0140359||IEA","GO:0008643,GO:0055085,GO:0042626,GO:0140359"
+GCF_000801185.2|WP_001144036.1,2,Accessory,,ParA family protein,"ATP binding|0005524||IEA,ATP hydrolysis activity|0016887||IEA","GO:0005524,GO:0016887"
+GCF_000801185.2|WP_001165564.1,2,Accessory,,DotH/IcmK family type IV secretion protein,,
+GCF_000801185.2|WP_001234254.1,2,Accessory,,phage tail assembly protein T,,
+GCF_000801185.2|WP_001275432.1,2,Accessory,,major tail subunit,,
+GCF_000801185.2|WP_001278818.1,2,Accessory,,plasmid partitioning/stability family protein,,
+GCF_000801185.2|WP_001280927.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_001283354.1,2,Accessory,,colicin Ia central receptor-binding domain-containing protein,,"GO:0019835,GO:0031640,GO:0050829,GO:0016020"
+GCF_000801185.2|WP_001287263.1,2,Accessory,,DotI/IcmL family type IV secretion protein,,
+GCF_000801185.2|WP_001291058.1,2,Accessory,mobA,plasmid mobilization protein MobA,,GO:0006355
+GCF_000801185.2|WP_001307257.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_001317510.1,2,Accessory,,transcription termination/antitermination NusG family protein,,"GO:0006354,GO:0006355,GO:0140673"
+GCF_000801185.2|WP_001345525.1,2,Accessory,,alpha/beta hydrolase,hydrolase activity|0016787||IEA,GO:0016787
+GCF_000801185.2|WP_001365055.1,2,Accessory,,Shiga toxin Stx2 subunit A,,
+GCF_000801185.2|WP_001365635.1,2,Accessory,ehxC,enterohemolysin-activating lysine-acyltransferase EhxC,,
+GCF_000801185.2|WP_001365959.1,2,Accessory,,type II toxin-antitoxin system RelE/ParE family toxin,,
+GCF_000801185.2|WP_001373081.1,2,Accessory,subB,subtilase AB5 cytotoxin subunit B,,
+GCF_000801185.2|WP_001376400.1,2,Accessory,,terminase large subunit,"endonuclease activity|0004519||IEA,ATP binding|0005524||IEA,ATP-dependent activity|0140657||IEA","GO:0004519,GO:0005524,GO:0140657"
+GCF_000801185.2|WP_001379880.1,2,Accessory,,Nif3-like dinuclear metal center hexameric protein,,
+GCF_000801185.2|WP_001563237.1,2,Accessory,excA,plasmid IncI1-type surface exclusion protein ExcA,,
+GCF_000801185.2|WP_001597028.1,2,Accessory,,DsbC family protein,protein disulfide isomerase activity|0003756||IEA,GO:0003756
+GCF_000801185.2|WP_011310099.1,2,Accessory,,relaxase/mobilization nuclease domain-containing protein,,
+GCF_000801185.2|WP_021292752.1,2,Accessory,,beta-L-arabinofuranosidase domain-containing protein,,
+GCF_000801185.2|WP_021292753.1,2,Accessory,,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,N-acyltransferase activity|0016410||IEA,"GO:0009245,GO:0016410"
+GCF_000801185.2|WP_021292754.1,2,Accessory,,glycoside hydrolase family 13 protein,hydrolase activity%2C hydrolyzing O-glycosyl compounds|0004553||IEA,"GO:0005975,GO:0004553"
+GCF_000801185.2|WP_021292774.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_021292782.1,2,Accessory,,type II secretion system F family protein,,
+GCF_000801185.2|WP_021292783.1,2,Accessory,,prepilin peptidase,aspartic-type endopeptidase activity|0004190||IEA,"GO:0004190,GO:0016020"
+GCF_000801185.2|WP_021292784.1,2,Accessory,pilV,shufflon system plasmid conjugative transfer pilus tip adhesin PilV,,
+GCF_000801185.2|WP_021292787.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_021292788.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_021292791.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_021292795.1,2,Accessory,traO,conjugal transfer protein TraO,,
+GCF_000801185.2|WP_021292796.1,2,Accessory,traP,conjugal transfer protein TraP,,
+GCF_000801185.2|WP_021292797.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_021292799.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_021292801.1,2,Accessory,,DUF2569 family protein,,
+GCF_000801185.2|WP_021292930.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_021292998.1,2,Accessory,,colicin E1 family microcin immunity protein,toxic substance binding|0015643||IEA,"GO:0030153,GO:0015643"
+GCF_000801185.2|WP_021293099.1,2,Accessory,,TonB family protein,secondary active transmembrane transporter activity|0015291||IEA,"GO:0006810,GO:0015291"
+GCF_000801185.2|WP_021293159.1,2,Accessory,,Rha family transcriptional regulator,,
+GCF_000801185.2|WP_021293254.1,2,Accessory,ccdB,type II toxin-antitoxin system toxin CcdB,,
+GCF_000801185.2|WP_021293303.1,2,Accessory,ehxD,enterohemolysin T1SS ABC transporter subunit EhxD,,
+GCF_000801185.2|WP_021293304.1,2,Accessory,ehxA,enterohemolysin EhxA,,
+GCF_000801185.2|WP_021293310.1,2,Accessory,traW,conjugal transfer protein TraW,,
+GCF_000801185.2|WP_021293311.1,2,Accessory,,DUF6750 family protein,,
+GCF_000801185.2|WP_021293313.1,2,Accessory,,toxin co-regulated pilus biosynthesis Q family protein,,
+GCF_000801185.2|WP_021293339.1,2,Accessory,,alpha-mannosidase,,
+GCF_000801185.2|WP_021293450.1,2,Accessory,saa,autoagglutinating adhesin Saa,,
+GCF_000801185.2|WP_024173694.1,2,Accessory,,type II toxin-antitoxin system RelE/ParE family toxin,"endonuclease activity|0004519||IEA,toxin activity|0090729||IEA","GO:0004519,GO:0090729,GO:0110001"
+GCF_000801185.2|WP_024199659.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_024199660.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_024199679.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_033817147.1,2,Accessory,,DUF6404 family protein,,
+GCF_000801185.2|WP_040118365.1,2,Accessory,,type 4 pilus major pilin,,
+GCF_000801185.2|WP_040118373.1,2,Accessory,,OmpA family protein,,
+GCF_000801185.2|WP_048264131.1,2,Accessory,pilP,type IV pilus biogenesis protein PilP,,GO:0009297
+GCF_000801185.2|WP_071531845.1,2,Accessory,,CPCC family cysteine-rich protein,,
+GCF_000801185.2|WP_072094473.1,2,Accessory,ehxB,enterohemolysin T1SS ABC transporter permease/ATPase EhxB,,
+GCF_000801185.2|WP_225276405.1,2,Accessory,,hypothetical protein,,
+GCF_000801185.2|WP_244468453.1,2,Accessory,,host cell division inhibitor Icd-like protein,,
+GCF_000801185.2|WP_306308484.1,2,Accessory,,MarR family transcriptional regulator,DNA-binding transcription factor activity|0003700||IEA,"GO:0006355,GO:0003700"

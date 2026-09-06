@@ -1,0 +1,80 @@
+======================================================================
+COMPARATIVE GENOMICS OF Escherichia coli
+FINAL PROJECT SUMMARY
+======================================================================
+
+1. DATASET
+----------------------------------------------------------------------
+Genomes analyzed: 20
+Species: Escherichia coli
+Assembly source: NCBI RefSeq
+Assembly level: Complete
+Annotation: NCBI annotated genomes
+
+2. GENE FAMILY ANALYSIS
+----------------------------------------------------------------------
+Total gene families: 5558
+Core families: 2849
+Accessory families: 1458
+Singleton families: 1251
+
+3. PHYLOGENOMIC CORE
+----------------------------------------------------------------------
+Single-copy core families: 2379
+These families were used for phylogenomic reconstruction.
+
+4. PHYLOGENETIC ANALYSIS
+----------------------------------------------------------------------
+Taxa in concatenated alignment: 11
+Alignment length: 726657 aa
+Alignment type: Protein
+Multiple sequence alignment: MAFFT
+Phylogenetic inference: IQ-TREE
+Bootstrap: 1,000 UFBoot replicates
+SH-aLRT: 1,000 replicates
+Partition/model optimization: ModelFinder
+
+5. FUNCTIONAL ENRICHMENT
+----------------------------------------------------------------------
+Significant functional associations: 2
+
+Pair: RM9387 + CI5
+Category: Surface/Adhesion
+Associated families: 14
+Odds ratio: 8.749
+FDR: 9.927e-08
+
+Pair: C41(DE3) + BL21
+Category: Carbohydrate metabolism
+Associated families: 6
+Odds ratio: 4.788
+FDR: 1.938e-02
+
+6. MAIN BIOLOGICAL FINDINGS
+----------------------------------------------------------------------
+RM9387 + CI5 showed significant enrichment of Surface/Adhesion-associated gene families.
+The associated families include multiple Type VI secretion-system components, fimbrial proteins, outer-membrane proteins and secretion-associated proteins.
+C41(DE3) + BL21 showed significant enrichment of Carbohydrate metabolism-associated gene families.
+The associated families include glycosyltransferase, sugar polymerase, carbohydrate-binding and O-antigen polymerase-related proteins.
+
+7. INTERPRETATION AND LIMITATIONS
+----------------------------------------------------------------------
+The identified relationships represent genomic associations rather than proof of biological causation.
+Functional assignments depend on available genome annotations; missing annotations do not necessarily indicate absence of biological function.
+The analysis includes 11 E. coli genomes, so biological generalization beyond the analyzed strains should be cautious.
+Phylogenetic relationships were inferred from single-copy core protein families.
+
+8. KEY OUTPUT FILES
+----------------------------------------------------------------------
+FOUND    results/functional_analysis.csv
+FOUND    results/single_copy_core_families.csv
+FOUND    results/phylogeny/ecoli_core_concatenated.faa
+FOUND    results/phylogeny/ecoli_final_tree.treefile
+FOUND    results/pair_functional_enrichment.csv
+FOUND    results/significant_functional_families.csv
+FOUND    results/final_significant_associations.csv
+FOUND    results/RM9387_CI5_Surface_Adhesion_families.csv
+FOUND    results/C41(DE3)_BL21_Carbohydrate_metabolism_families.csv
+FOUND    figures/ecoli_phylogenetic_tree_final.png
+FOUND    figures/final_functional_findings.png
+FOUND    figures/pair_functional_enrichment.png

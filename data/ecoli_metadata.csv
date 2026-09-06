@@ -1,0 +1,21 @@
+accession,organism,strain,assembly_level,assembly_name,genome_size,gc_percent,contigs,protein_coding_genes,pseudogenes
+GCF_000597845.1,Escherichia coli,ST540,Complete Genome,ASM59784v1,4758629,51.0,1,4345,218
+GCF_000599625.1,Escherichia coli,ST540,Complete Genome,ASM59962v1,4807977,51.0,1,4379,231
+GCF_000599645.1,Escherichia coli,ST540,Complete Genome,ASM59964v1,4875682,51.0,1,4410,285
+GCF_000599665.1,Escherichia coli,ST2747,Complete Genome,ASM59966v1,5054509,50.5,1,4546,154
+GCF_000599685.1,Escherichia coli,ST2747,Complete Genome,ASM59968v1,4998910,50.5,1,4445,179
+GCF_000599705.1,Escherichia coli,ST2747,Complete Genome,ASM59970v1,5090442,51.0,1,4390,352
+GCF_000784925.1,Escherichia coli,ECONIH1,Complete Genome,ASM78492v1,5559642,50.5,4,5118,254
+GCF_000801165.1,Escherichia coli,RM9387,Complete Genome,ASM80116v1,4995948,50.5,2,4608,166
+GCF_000801185.2,Escherichia coli,94-3024,Complete Genome,ASM80118v2,5045911,50.5,2,4609,189
+GCF_000814145.2,Escherichia coli,6409,Complete Genome,ASM81414v2,5106503,51.0,3,4704,228
+GCF_000819645.1,Escherichia coli,789,Complete Genome,ASM81964v1,5273074,51.0,4,4778,239
+GCF_000830035.1,Escherichia coli,C41(DE3),Complete Genome,ASM83003v1,4557511,51.0,1,4148,188
+GCF_000833145.1,Escherichia coli,BL21 (TaKaRa),Complete Genome,ASM83314v1,4528118,51.0,1,4111,189
+GCF_000833635.2,Escherichia coli,USML2,Complete Genome,ASM83363v2,4502758,51.0,1,4064,175
+GCF_000931565.1,Escherichia coli,MNCRE44,Complete Genome,ASM93156v1,5292269,51.0,7,4934,264
+GCF_000952955.1,Escherichia coli,K-12 substr. RV308,Complete Genome,EcRV308Chr,4585620,51.0,1,4163,176
+GCF_000953515.1,Escherichia coli,K-12 substr. HMS174,Complete Genome,EcHMS174Chr,4584860,51.0,1,4162,175
+GCF_000967155.2,Escherichia coli,HUSEC2011,Complete Genome,HUSEC2011CHR1,5443340,50.5,4,4988,287
+GCF_000971615.1,Escherichia coli,CI5,Complete Genome,ASM97161v1,5092643,50.5,2,4727,156
+GCF_000987875.1,Escherichia coli,SEC470,Complete Genome,ASM98787v1,5153435,51.0,1,4762,225

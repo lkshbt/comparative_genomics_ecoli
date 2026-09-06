@@ -1,0 +1,50 @@
+cluster,gene,product,go_function,ontology_term
+GCF_000833145.1|WP_000015362.1,,polymorphic toxin type 34 domain-containing protein,,
+GCF_000833145.1|WP_000040994.1,,CDP-glycerol glycerophosphotransferase family protein,,
+GCF_000833145.1|WP_000069818.1,,hypothetical protein,,
+GCF_000833145.1|WP_000074142.1,,hypothetical protein,,
+GCF_000833145.1|WP_000115390.1,,DUF6216 family protein,,
+GCF_000833145.1|WP_000135616.1,,recombinase family protein,"DNA strand exchange activity|0000150||IEA,DNA binding|0003677||IEA","GO:0015074,GO:0000150,GO:0003677"
+GCF_000833145.1|WP_000159335.1,,hypothetical protein,,
+GCF_000833145.1|WP_000161786.1,,glycosyltransferase family 4 protein,glycosyltransferase activity|0016757||IEA,"GO:0006486,GO:0016757"
+GCF_000833145.1|WP_000194414.1,,cysteine hydrolase family protein,hydrolase activity|0016787||IEA,GO:0016787
+GCF_000833145.1|WP_000214035.1,,allophanate hydrolase-related protein,,
+GCF_000833145.1|WP_000323726.1,vioB,dTDP-4-amino-4%2C6-dideoxy-D-glucose acetyltransferase VioB,,
+GCF_000833145.1|WP_000340445.1,,sugar polymerase,,
+GCF_000833145.1|WP_000370546.1,,hypothetical protein,,
+GCF_000833145.1|WP_000463026.1,,tripartite tricarboxylate transporter permease,,"GO:0006810,GO:0042597"
+GCF_000833145.1|WP_000589802.1,,Bug family tripartite tricarboxylate transporter substrate binding protein,,GO:0042597
+GCF_000833145.1|WP_000614784.1,,ParB/RepB/Spo0J family partition protein,,
+GCF_000833145.1|WP_000677419.1,,secretin N-terminal domain-containing protein,,
+GCF_000833145.1|WP_000690820.1,,glycosyl transferase,,
+GCF_000833145.1|WP_000700140.1,,hypothetical protein,,
+GCF_000833145.1|WP_000720774.1,,TIGR02117 family protein,,
+GCF_000833145.1|WP_000773160.1,,carbohydrate-binding protein,"hydrolase activity%2C hydrolyzing O-glycosyl compounds|0004553||IEA,carbohydrate binding|0030246||IEA","GO:0005975,GO:0004553,GO:0030246,GO:0005576"
+GCF_000833145.1|WP_000789017.1,,IspD/TarI family cytidylyltransferase,cytidylyltransferase activity|0070567||IEA,GO:0070567
+GCF_000833145.1|WP_000936465.1,,ParB/RepB/Spo0J family partition protein,DNA binding|0003677||IEA,GO:0003677
+GCF_000833145.1|WP_000991482.1,,hypothetical protein,,
+GCF_000833145.1|WP_000998331.1,,hypothetical protein,,
+GCF_000833145.1|WP_000998544.1,vioA,dTDP-4-amino-4%2C6-dideoxy-D-glucose aminotransferase VioA,,
+GCF_000833145.1|WP_001032214.1,,PstS family phosphate ABC transporter substrate-binding protein,"transmembrane transporter activity|0022857||IEA,ATPase-coupled transmembrane transporter activity|0042626||IEA,ABC-type transporter activity|0140359||IEA","GO:0006817,GO:0022857,GO:0042626,GO:0140359,GO:0055052"
+GCF_000833145.1|WP_001034589.1,,retron St85 family effector protein,,
+GCF_000833145.1|WP_001038839.1,,autotransporter outer membrane beta-barrel domain-containing protein,,GO:0019867
+GCF_000833145.1|WP_001059831.1,,hypothetical protein,,
+GCF_000833145.1|WP_001060532.1,wzx,O7 family O-antigen flippase,,
+GCF_000833145.1|WP_001093393.1,,tripartite tricarboxylate transporter TctB family protein,transporter activity|0005215||IEA,GO:0005215
+GCF_000833145.1|WP_001140843.1,,LacI family DNA-binding transcriptional regulator,,
+GCF_000833145.1|WP_001157925.1,,hypothetical protein,,
+GCF_000833145.1|WP_001227362.1,,cytosine permease,,
+GCF_000833145.1|WP_001230642.1,wzy,O7 family O-antigen polymerase,,
+GCF_000833145.1|WP_001268667.1,,hypothetical protein,,
+GCF_000833145.1|WP_001276099.1,,DUF6998 domain-containing protein,,
+GCF_000833145.1|WP_001301301.1,,DUF2877 domain-containing protein,,
+GCF_000833145.1|WP_001313396.1,ykgR,small membrane protein YkgR,,
+GCF_000833145.1|WP_001320327.1,,hypothetical protein,,
+GCF_000833145.1|WP_001326841.1,,hypothetical protein,,
+GCF_000833145.1|WP_001703923.1,,hypothetical protein,,
+GCF_000833145.1|WP_024181909.1,,RecE family exodeoxyribonuclease,double-stranded DNA 5'-3' DNA exonuclease activity|0051908||IEA,"GO:0090304,GO:0051908"
+GCF_000833145.1|WP_048339841.1,xisR,excisionase family protein,,
+GCF_000833145.1|WP_077626112.1,,SDR family NAD(P)-dependent oxidoreductase,"oxidoreductase activity|0016491||IEA,NADP+ binding|0070401||IEA,NAD+ binding|0070403||IEA","GO:0016491,GO:0070401,GO:0070403"
+GCF_000833145.1|WP_223343795.1,,helix-turn-helix domain-containing protein,,
+GCF_000833145.1|WP_223343796.1,,DUF6531 domain-containing protein,,
+GCF_000833145.1|WP_226347323.1,,retron St85 family RNA-directed DNA polymerase,,"GO:0001171,GO:0051607"

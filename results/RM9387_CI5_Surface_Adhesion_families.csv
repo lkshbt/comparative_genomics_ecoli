@@ -1,0 +1,15 @@
+cluster,genomes_present,family_type,gene,product,go_function,ontology_term
+GCF_000971615.1|WP_000119441.1,2,Accessory,,Hcp family type VI secretion system effector,,GO:0033103
+GCF_000971615.1|WP_000183810.1,2,Accessory,,type VI secretion system accessory protein TagJ,,
+GCF_000971615.1|WP_000371477.1,2,Accessory,tssF,type VI secretion system baseplate subunit TssF,,GO:0033103
+GCF_000971615.1|WP_000450225.1,2,Accessory,,ImpA family type VI secretion system protein,,
+GCF_000971615.1|WP_000533466.1,2,Accessory,,type VI secretion system amidase effector protein Tae4,,
+GCF_000971615.1|WP_000695774.1,2,Accessory,pefC,PefC/AfrB family outer membrane usher protein,,
+GCF_000971615.1|WP_000733565.1,2,Accessory,,fimbrial protein,,"GO:0007155,GO:0009289"
+GCF_000971615.1|WP_000804010.1,2,Accessory,tagK,type VI secretion system-associated protein TagK,,
+GCF_000971615.1|WP_000996600.1,2,Accessory,,fimbrial protein,,"GO:0007155,GO:0009289"
+GCF_000971615.1|WP_001150579.1,2,Accessory,,HlyD family secretion protein,transmembrane transporter activity|0022857||IEA,"GO:0055085,GO:0022857,GO:0016020"
+GCF_000971615.1|WP_001276642.1,2,Accessory,tssE,type VI secretion system baseplate subunit TssE,,GO:0033103
+GCF_000971615.1|WP_001402122.1,2,Accessory,tssJ,type VI secretion system lipoprotein TssJ,,GO:0033103
+GCF_000971615.1|WP_039264360.1,2,Accessory,tssG,type VI secretion system baseplate subunit TssG,,GO:0033103
+GCF_000971615.1|WP_046201413.1,2,Accessory,,Ail/Lom family outer membrane beta-barrel protein,,GO:0044384

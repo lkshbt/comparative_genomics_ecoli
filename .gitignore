@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+bioenv/
+
+# Large/raw datasets
+raw_data/
+sequences/
+datasets/
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+
+# MMseqs2 temporary files
+results/mmseqs_tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Large analysis outputs
+results/alignments/
+results/mmseqs/
+results/mmseqs_tmp/
+
+# Local software
+tools/
+datasets
+
+# Large/intermediate analysis files
+results/alignments/
+results/mmseqs/
+results/phylogeny/ecoli_modeltest.model.gz
+results/phylogeny/ecoli_modeltest.log
+results/phylogeny/ecoli_modeltest.iqtree
+results/phylogeny/ecoli_modeltest.best_scheme.nex
+results/phylogeny/ecoli_modeltest.best_model.nex
+results/phylogeny/ecoli_modeltest.treefile
+results/phylogeny/ecoli_modeltest.ckp.gz
+
+# Large concatenated intermediate alignment
+results/phylogeny/ecoli_core_concatenated.faa
+
+# Temporary analysis outputs
+results/mmseqs_tmp/

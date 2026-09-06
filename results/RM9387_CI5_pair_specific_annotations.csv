@@ -1,0 +1,62 @@
+cluster,genomes_present,family_type,gene,product,go_function,ontology_term
+GCF_000801165.1|WP_000006334.1,2,Accessory,,DcrB-related protein,,
+GCF_000801165.1|WP_001204071.1,2,Accessory,,hypothetical protein,,
+GCF_000801165.1|WP_032141822.1,2,Accessory,,RHS repeat-associated core domain-containing protein,,
+GCF_000801165.1|WP_039264392.1,2,Accessory,,exonuclease,,
+GCF_000971615.1|WP_000036628.1,2,Accessory,,hypothetical protein,,
+GCF_000971615.1|WP_000041317.1,2,Accessory,,siphovirus Gp157 family protein,,
+GCF_000971615.1|WP_000058708.1,2,Accessory,,hypothetical protein,,
+GCF_000971615.1|WP_000119441.1,2,Accessory,,Hcp family type VI secretion system effector,,GO:0033103
+GCF_000971615.1|WP_000122239.1,2,Accessory,pnuC,nicotinamide riboside transporter PnuC,nicotinamide mononucleotide transmembrane transporter activity|0015663||IEA,"GO:0015890,GO:0015663,GO:0016020"
+GCF_000971615.1|WP_000144225.1,2,Accessory,,hypothetical protein,,
+GCF_000971615.1|WP_000183810.1,2,Accessory,,type VI secretion system accessory protein TagJ,,
+GCF_000971615.1|WP_000279885.1,2,Accessory,,integrase arm-type DNA-binding domain-containing protein,,
+GCF_000971615.1|WP_000371477.1,2,Accessory,tssF,type VI secretion system baseplate subunit TssF,,GO:0033103
+GCF_000971615.1|WP_000450225.1,2,Accessory,,ImpA family type VI secretion system protein,,
+GCF_000971615.1|WP_000522897.1,2,Accessory,,hypothetical protein,,
+GCF_000971615.1|WP_000533466.1,2,Accessory,,type VI secretion system amidase effector protein Tae4,,
+GCF_000971615.1|WP_000565927.1,2,Accessory,,hypothetical protein,,
+GCF_000971615.1|WP_000635646.1,2,Accessory,,hypothetical protein,,
+GCF_000971615.1|WP_000638145.1,2,Accessory,,ATP-binding protein,,
+GCF_000971615.1|WP_000661408.1,2,Accessory,,hypothetical protein,,
+GCF_000971615.1|WP_000666530.1,2,Accessory,,tyrosine-type recombinase/integrase,DNA binding|0003677||IEA,"GO:0006310,GO:0015074,GO:0003677"
+GCF_000971615.1|WP_000695774.1,2,Accessory,pefC,PefC/AfrB family outer membrane usher protein,,
+GCF_000971615.1|WP_000733565.1,2,Accessory,,fimbrial protein,,"GO:0007155,GO:0009289"
+GCF_000971615.1|WP_000797400.1,2,Accessory,,penicillin G acylase,"penicillin amidase activity|0008953||IEA,hydrolase activity%2C acting on carbon-nitrogen (but not peptide) bonds%2C in linear amides|0016811||IEA,metal ion binding|0046872||IEA","GO:0017000,GO:0046677,GO:0008953,GO:0016811,GO:0046872"
+GCF_000971615.1|WP_000804010.1,2,Accessory,tagK,type VI secretion system-associated protein TagK,,
+GCF_000971615.1|WP_000807561.1,2,Accessory,,SymE family type I addiction module toxin,"RNA binding|0003723||IEA,hydrolase activity%2C acting on ester bonds|0016788||IEA","GO:0016070,GO:0003723,GO:0016788,GO:0005737"
+GCF_000971615.1|WP_000871596.1,2,Accessory,,T6SS amidase immunity protein Tai4 family protein,,
+GCF_000971615.1|WP_000947398.1,2,Accessory,,SymE family type I addiction module toxin,"RNA binding|0003723||IEA,hydrolase activity%2C acting on ester bonds|0016788||IEA","GO:0016070,GO:0003723,GO:0016788,GO:0005737"
+GCF_000971615.1|WP_000996600.1,2,Accessory,,fimbrial protein,,"GO:0007155,GO:0009289"
+GCF_000971615.1|WP_001040751.1,2,Accessory,,hypothetical protein,,
+GCF_000971615.1|WP_001060994.1,2,Accessory,,hypothetical protein,,
+GCF_000971615.1|WP_001066231.1,2,Accessory,,KpsF/GutQ family sugar-phosphate isomerase,"isomerase activity|0016853||IEA,metal ion binding|0046872||IEA,carbohydrate derivative binding|0097367||IEA","GO:0005975,GO:0016853,GO:0046872,GO:0097367"
+GCF_000971615.1|WP_001078805.1,2,Accessory,,hypothetical protein,,
+GCF_000971615.1|WP_001097116.1,2,Accessory,,RNA ligase family protein,,
+GCF_000971615.1|WP_001150579.1,2,Accessory,,HlyD family secretion protein,transmembrane transporter activity|0022857||IEA,"GO:0055085,GO:0022857,GO:0016020"
+GCF_000971615.1|WP_001183287.1,2,Accessory,,RpiB/LacA/LacB family sugar-phosphate isomerase,isomerase activity|0016853||IEA,"GO:0005975,GO:0016853"
+GCF_000971615.1|WP_001199686.1,2,Accessory,,DcrB-related protein,,
+GCF_000971615.1|WP_001276642.1,2,Accessory,tssE,type VI secretion system baseplate subunit TssE,,GO:0033103
+GCF_000971615.1|WP_001341841.1,2,Accessory,,phosphoglycerate dehydrogenase,,
+GCF_000971615.1|WP_001395679.1,2,Accessory,,hypothetical protein,,
+GCF_000971615.1|WP_001395971.1,2,Accessory,,PRD domain-containing protein,,GO:0006355
+GCF_000971615.1|WP_001396330.1,2,Accessory,,hypothetical protein,,
+GCF_000971615.1|WP_001402122.1,2,Accessory,tssJ,type VI secretion system lipoprotein TssJ,,GO:0033103
+GCF_000971615.1|WP_001542642.1,2,Accessory,,HigA family addiction module antitoxin,DNA binding|0003677||IEA,GO:0003677
+GCF_000971615.1|WP_001542896.1,2,Accessory,,hypothetical protein,,
+GCF_000971615.1|WP_024170797.1,2,Accessory,,TagF domain-containing protein,,
+GCF_000971615.1|WP_024194565.1,2,Accessory,,hypothetical protein,,
+GCF_000971615.1|WP_024239663.1,2,Accessory,,hypothetical protein,,
+GCF_000971615.1|WP_024251353.1,2,Accessory,,AAA family ATPase,,
+GCF_000971615.1|WP_032325772.1,2,Accessory,,WYL domain-containing protein,,
+GCF_000971615.1|WP_039264360.1,2,Accessory,tssG,type VI secretion system baseplate subunit TssG,,GO:0033103
+GCF_000971615.1|WP_039264497.1,2,Accessory,,hypothetical protein,,
+GCF_000971615.1|WP_039264498.1,2,Accessory,,DUF4236 domain-containing protein,,
+GCF_000971615.1|WP_039264501.1,2,Accessory,,hypothetical protein,,
+GCF_000971615.1|WP_039264502.1,2,Accessory,,DUF6979 family protein,,
+GCF_000971615.1|WP_039264505.1,2,Accessory,,lysozyme inhibitor LprI family protein,,
+GCF_000971615.1|WP_046201413.1,2,Accessory,,Ail/Lom family outer membrane beta-barrel protein,,GO:0044384
+GCF_000971615.1|WP_046201788.1,2,Accessory,,plasmid SOS inhibition protein A,,
+GCF_000971615.1|WP_052734128.1,2,Accessory,,AraC family transcriptional regulator,"DNA-binding transcription factor activity|0003700||IEA,sequence-specific DNA binding|0043565||IEA","GO:0006355,GO:0003700,GO:0043565"
+GCF_000971615.1|WP_224142731.1,2,Accessory,,DUF2971 domain-containing protein,,
+GCF_000971615.1|WP_230986327.1,2,Accessory,,peptidase domain-containing ABC transporter,"ATP binding|0005524||IEA,peptidase activity|0008233||IEA,ATP hydrolysis activity|0016887||IEA,ATPase-coupled transmembrane transporter activity|0042626||IEA,ABC-type transporter activity|0140359||IEA","GO:0005524,GO:0008233,GO:0016887,GO:0042626,GO:0140359,GO:0055052"

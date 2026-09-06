@@ -1,0 +1,3 @@
+pair,category,target_families,target_total,background_families,background_total,odds_ratio,p_value,FDR,significant_FDR_0.05
+RM9387 + CI5,Surface/Adhesion,14,61,181,5497,8.74856000940402,1.4181286747862096e-08,9.926900723503469e-08,True
+C41(DE3) + BL21,Carbohydrate metabolism,6,49,156,5509,4.788014311270126,0.0027686766081838,0.0193807362572872,True
